@@ -1,0 +1,55 @@
+# SpaceXEY: Two and O(penAI) — ALL tunable game constants.
+# Edit these between plays; logic never hardcodes a number that appears here.
+# Values copied verbatim from the design spec's Designer Quick-Reference.
+
+# --- Death-check cutoffs (ratio-based; higher = more forgiving) --------------
+# Each check compares a pressure to a multiple of the team's substance, so the
+# outcome scales with the numbers. High-substance teams are inherently safe.
+
+# Vaporware/fraud: busts if (Deception + Marketing) > vaporware_ratio * Tech.
+# At 2.1, a 90-tech team only busts when deception+marketing approach 99/99;
+# a 95+-tech team is effectively immune. Low-tech hype machines still bust.
+vaporware_ratio: 2.1
+# Overhyped: busts if Marketing > overhype_ratio * Tech.
+overhype_ratio: 1.4
+# Bankruptcy: busts if BurnRate > burn_ratio * (Monetization + Money).
+burn_ratio: 1.0
+
+burn_base: 30
+burn_k_ego: 0.6
+burn_k_tech: 0.3
+# Chemistry / implosion. Ego below this base is always fine. At or above it, the
+# team survives ONLY if project quality — the average of the non-risk stats
+# (vision, marketing, tech, monetization, money capped at 100) — exceeds ego.
+# So even a max-ego roster can (barely) win if every other stat is near-perfect;
+# otherwise it implodes. 90+ ego is thus survivable but basically impossible.
+ego_implosion_ceiling: 80
+ego_cashout_ratio: 0.55
+masayoshi_money_min: 85
+masayoshi_marketing_min: 65
+masayoshi_monetization_max: 68
+potential_for_1t: 91.8
+valuation_exponent: 22
+valuation_cap_b: 1000
+specialty_synergy_bonus: 1.05
+worst_ipo_threshold_b: 0.01   # $10M
+cashout_cap_b: 1.0            # $1B
+
+# Which industries are selectable on each Technical Track. A person's Specialty
+# belongs to exactly one track; you can only choose industries in your track.
+track_industries:
+  SW: ["Infra", "B2B", "B2C"]
+  HW: ["Chips", "Computers", "Deep Tech"]
+
+# role weight tables — verbatim from the design spec section 6
+weights:
+  vision:       { CEO: 0.80, CTO: 0.10, SWE: 0.00, CMO: 0.05, COO: 0.05, INV: 0.00 }
+  marketing:    { CEO: 0.30, CTO: 0.05, SWE: 0.00, CMO: 0.60, COO: 0.05, INV: 0.00 }
+  tech:         { CEO: 0.05, CTO: 0.50, SWE: 0.45, CMO: 0.00, COO: 0.00, INV: 0.00 }
+  deception:    { CEO: 0.40, CTO: 0.10, SWE: 0.00, CMO: 0.50, COO: 0.00, INV: 0.00 }
+  monetization: { CEO: 0.25, CTO: 0.05, SWE: 0.00, CMO: 0.10, COO: 0.60, INV: 0.00 }
+  # Rebalanced: raised CMO/COO ego weight (0.10 -> 0.16) so mega-ego showmen
+  # can no longer launder a 95+ ego by sitting in the marketing/ops seat.
+  # CEO/CTO/INV trimmed to keep the individual row summing to 1.00.
+  ego_individual: { CEO: 0.28, CTO: 0.18, SWE: 0.10, CMO: 0.16, COO: 0.16, INV: 0.12 }
+  ego_entity:     { CEO: 0.28, CTO: 0.21, SWE: 0.13, CMO: 0.19, COO: 0.19, INV: 0.00 }
