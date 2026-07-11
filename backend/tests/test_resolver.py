@@ -252,10 +252,24 @@ def test_valuation_formula_matches_spec():
     assert r.valuation_b == pytest.approx(expected)
 
 
-def test_perfect_season_caps_at_1000():
+def test_perfect_season_scales_above_1t():
+    # potential 95.0 sits in the $1T->$2T exponential band, so it clears the
+    # perfect-season line but lands well under the $2T cap.
     picks = uniform_team(96, 92, 96, 10, 96, 70, era="1950s", inv=mk_inv(money=50, ego=70))
     r = resolve("SW", "B2B", picks, SETTINGS)
-    assert r.valuation_b == 1000
+    potential = (96 + 92 + 96 + 96) / 4
+    span = (potential - 91.8) / (98.6 - 91.8)
+    expected = 1000 * (2000 / 1000) ** span
+    assert r.valuation_b == pytest.approx(expected)
+    assert 1000 < r.valuation_b < 2000
+    assert r.ending_id == "perfect_season"
+
+
+def test_valuation_caps_at_2t():
+    # A maxed roster (potential >= potential_for_2t) is clamped to the $2T cap.
+    picks = uniform_team(99, 99, 99, 10, 99, 70, era="1950s", inv=mk_inv(money=50, ego=70))
+    r = resolve("SW", "B2B", picks, SETTINGS)
+    assert r.valuation_b == 2000
     assert r.ending_id == "perfect_season"
 
 

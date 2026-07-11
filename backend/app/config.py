@@ -35,6 +35,8 @@ class Settings:
     masayoshi_monetization_max: float
     potential_for_1t: float
     valuation_exponent: float
+    valuation_1t_b: float
+    potential_for_2t: float
     valuation_cap_b: float
     specialty_synergy_bonus: float
     worst_ipo_threshold_b: float
@@ -59,6 +61,8 @@ class Settings:
             "masayoshi_monetization_max": self.masayoshi_monetization_max,
             "potential_for_1t": self.potential_for_1t,
             "valuation_exponent": self.valuation_exponent,
+            "valuation_1t_b": self.valuation_1t_b,
+            "potential_for_2t": self.potential_for_2t,
             "valuation_cap_b": self.valuation_cap_b,
             "specialty_synergy_bonus": self.specialty_synergy_bonus,
             "worst_ipo_threshold_b": self.worst_ipo_threshold_b,

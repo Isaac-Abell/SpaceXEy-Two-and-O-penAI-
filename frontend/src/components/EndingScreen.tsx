@@ -42,7 +42,6 @@ function buildShareText(result: ResolveResponse): string {
     "SpaceXEY Two and O(penAI)",
     `${result.ending_emoji} ${result.ending_label}`,
     `Valuation: ${fmtValuation(result.valuation_b)}`,
-    `Potential: ${result.team_stats.potential.toFixed(1)} / 100`,
     "",
     "Roster:",
   ];
@@ -93,16 +92,12 @@ function makeShareImage(result: ResolveResponse): Promise<Blob | null> {
   font("700 38px");
   ctx.fillText(result.ending_label, W / 2, 186);
 
-  const cx1 = W / 2 - 140;
-  const cx2 = W / 2 + 140;
   ctx.fillStyle = "#9aa0a6";
   font("12px");
-  ctx.fillText("VALUATION", cx1, 224);
-  ctx.fillText("POTENTIAL", cx2, 224);
+  ctx.fillText("VALUATION", W / 2, 224);
   ctx.fillStyle = "#e8eaed";
   font("700 27px");
-  ctx.fillText(fmtValuation(result.valuation_b), cx1, 255);
-  ctx.fillText(result.team_stats.potential.toFixed(1), cx2, 255);
+  ctx.fillText(fmtValuation(result.valuation_b), W / 2, 255);
 
   const s = result.team_stats;
   const strip = `VIZ ${Math.round(s.vision)}   MKT ${Math.round(s.marketing)}   TECH ${Math.round(
@@ -238,11 +233,6 @@ export default function EndingScreen({ result, bestRun, isNewBest, onRunItBack }
               <Typography sx={{ fontSize: 12, color: "text.secondary" }}>VALUATION</Typography>
               <Typography variant="h5">{fmtValuation(result.valuation_b)}</Typography>
             </Box>
-            <Divider orientation="vertical" flexItem />
-            <Box>
-              <Typography sx={{ fontSize: 12, color: "text.secondary" }}>POTENTIAL</Typography>
-              <Typography variant="h5">{s.potential.toFixed(1)}</Typography>
-            </Box>
           </Stack>
           {bestRun && !isNewBest && (
             <Typography sx={{ mt: 1.5, fontSize: 12, color: "text.secondary" }}>
@@ -264,14 +254,11 @@ export default function EndingScreen({ result, bestRun, isNewBest, onRunItBack }
               <b>{result.death_check.label}</b>: {result.death_check.detail}
             </Alert>
           ) : (
-            <Stack direction="row" spacing={1} sx={{ mb: 2, flexWrap: "wrap", gap: 1 }}>
-              <Chip
-                label={`Potential ${s.potential.toFixed(1)} / 100`}
-                color="primary"
-                variant="outlined"
-              />
-              {result.cashout && <Chip label="Cash-out cap ($1B)" color="warning" />}
-            </Stack>
+            result.cashout && (
+              <Stack direction="row" spacing={1} sx={{ mb: 2, flexWrap: "wrap", gap: 1 }}>
+                <Chip label="Cash-out cap ($1B)" color="warning" />
+              </Stack>
+            )
           )}
 
           <Typography variant="subtitle2" color="text.secondary" gutterBottom>

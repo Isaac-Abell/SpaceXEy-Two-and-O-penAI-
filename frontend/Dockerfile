@@ -5,7 +5,10 @@ COPY package.json package-lock.json* ./
 RUN npm install
 COPY . .
 # VITE_* vars are baked in at build time. Override with --build-arg.
-ARG VITE_API_BASE=http://localhost:8000
+# Default empty = same-origin: nginx in this image proxies /api -> backend, so
+# no CORS and it works behind a tunnel. (Cloudflare Pages builds via `npm run
+# build`, not this Dockerfile, and sets its own VITE_API_BASE.)
+ARG VITE_API_BASE=""
 ARG VITE_CHEATS=true
 ENV VITE_API_BASE=$VITE_API_BASE
 ENV VITE_CHEATS=$VITE_CHEATS

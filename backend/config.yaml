@@ -28,9 +28,16 @@ ego_cashout_ratio: 0.55
 masayoshi_money_min: 85
 masayoshi_marketing_min: 65
 masayoshi_monetization_max: 68
+# Valuation curve. Two segments joined at $1T (potential_for_1t):
+#  - At/below potential_for_1t: steep power law 0 -> $1T (valuation_1t_b).
+#  - Above it: an exponential band that doubles $1T -> $2T (valuation_cap_b),
+#    hitting the $2T cap at potential_for_2t. $2T = the largest IPO ever, and
+#    98.6 sits just under the ~98.81 max reachable potential, so $2T is elite.
 potential_for_1t: 91.8
 valuation_exponent: 22
-valuation_cap_b: 1000
+valuation_1t_b: 1000         # $1T pivot (top of the power-law segment)
+potential_for_2t: 98.6       # potential that reaches the $2T cap
+valuation_cap_b: 2000        # $2T hard cap
 specialty_synergy_bonus: 1.05
 worst_ipo_threshold_b: 0.01   # $10M
 cashout_cap_b: 1.0            # $1B

@@ -72,7 +72,7 @@ def choose_ending(valuation_b: float, cashout: bool, settings: Settings) -> str:
         return "anti_founder"
     if cashout:
         return "sold_too_early"
-    if valuation_b >= settings.valuation_cap_b:  # >= $1T
+    if valuation_b >= settings.valuation_1t_b:  # >= $1T
         return "perfect_season"
     if valuation_b >= 500:
         return "generational"
@@ -191,12 +191,19 @@ def resolve(
     # Ego floor, early cash-out (a cap, not a bust)
     cashout = ego < settings.ego_cashout_ratio * potential
 
-    # Step 4: deterministic valuation curve
-    valuation = settings.valuation_cap_b * (potential / settings.potential_for_1t) ** settings.valuation_exponent
+    # Step 4: deterministic valuation curve. Two segments meeting at $1T:
+    #   - up to potential_for_1t: the steep power law that tops out at $1T;
+    #   - above it: an exponential band that doubles $1T -> $2T, reaching the
+    #     cap at potential_for_2t. Both pieces agree at potential_for_1t.
+    if potential <= settings.potential_for_1t:
+        valuation = settings.valuation_1t_b * (potential / settings.potential_for_1t) ** settings.valuation_exponent
+    else:
+        span = (potential - settings.potential_for_1t) / (settings.potential_for_2t - settings.potential_for_1t)
+        valuation = settings.valuation_1t_b * (settings.valuation_cap_b / settings.valuation_1t_b) ** span
 
     if cashout:
         valuation = min(valuation, settings.cashout_cap_b)  # $1B cap
-    valuation = min(valuation, settings.valuation_cap_b)     # $1T cap
+    valuation = min(valuation, settings.valuation_cap_b)     # $2T cap
 
     ending_id = choose_ending(valuation, cashout, settings)
 
