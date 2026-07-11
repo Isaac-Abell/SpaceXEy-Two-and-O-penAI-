@@ -8,6 +8,7 @@ import {
   Typography,
 } from "@mui/material";
 import OpenInNewIcon from "@mui/icons-material/OpenInNew";
+import GitHubIcon from "@mui/icons-material/GitHub";
 import PaidIcon from "@mui/icons-material/Paid";
 import StarIcon from "@mui/icons-material/Star";
 import type { CardDTO, Track } from "../types";
@@ -112,23 +113,43 @@ export default function PlayerCard({ card, track, selected, onSelect, compact }:
           </Box>
         )}
 
-        {card.wikipedia && (
-          <Link
-            href={card.wikipedia}
-            target="_blank"
-            rel="noopener"
-            sx={{
-              mt: 0.75,
-              display: "inline-flex",
-              alignItems: "center",
-              gap: 0.3,
-              fontSize: 11,
-              color: "primary.main",
-            }}
-            onClick={(e) => e.stopPropagation()}
-          >
-            Wikipedia <OpenInNewIcon sx={{ fontSize: 12 }} />
-          </Link>
+        {(card.github || card.wikipedia) && (
+          <Stack direction="row" spacing={1.25} sx={{ mt: 0.75, flexWrap: "wrap" }}>
+            {card.github && (
+              <Link
+                href={card.github}
+                target="_blank"
+                rel="noopener"
+                sx={{
+                  display: "inline-flex",
+                  alignItems: "center",
+                  gap: 0.3,
+                  fontSize: 11,
+                  color: "primary.main",
+                }}
+                onClick={(e) => e.stopPropagation()}
+              >
+                <GitHubIcon sx={{ fontSize: 12 }} /> GitHub
+              </Link>
+            )}
+            {card.wikipedia && (
+              <Link
+                href={card.wikipedia}
+                target="_blank"
+                rel="noopener"
+                sx={{
+                  display: "inline-flex",
+                  alignItems: "center",
+                  gap: 0.3,
+                  fontSize: 11,
+                  color: "primary.main",
+                }}
+                onClick={(e) => e.stopPropagation()}
+              >
+                Wikipedia <OpenInNewIcon sx={{ fontSize: 12 }} />
+              </Link>
+            )}
+          </Stack>
         )}
       </Box>
     </Box>

@@ -24,6 +24,7 @@ export interface CardDTO {
   specialty?: string | null;
   type?: string | null; // investor: Individual | Entity
   wikipedia?: string | null;
+  github?: string | null;
   stats: CardStats;
   accent: string;
   alreadyWealthy?: boolean;

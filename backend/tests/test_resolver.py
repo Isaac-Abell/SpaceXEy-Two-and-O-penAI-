@@ -27,6 +27,7 @@ def mk_person(**kw) -> Person:
     base = dict(
         name=kw.pop("name", f"P{_counter}"),
         wikipedia=None,
+        github=None,
         company=kw.pop("company", "Acme"),
         era=kw.pop("era", "2010s"),
         vision=0.0, marketing=0.0, tech_hw=0.0, tech_sw=0.0,

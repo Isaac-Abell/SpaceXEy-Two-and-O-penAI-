@@ -16,12 +16,12 @@ interface Props {
 }
 
 const ROLES: [string, string, string][] = [
-  ["CEO", "The Visionary", "Sets the ceiling and the culture. Dominates Vision."],
-  ["CTO", "The Architect", "Designs the tech stack. Anchors Technical Ability."],
-  ["Lead SWE", "The Executioner", "Actually builds the thing. The other half of Tech."],
-  ["CMO", "The Hype Engine", "Drives the narrative and demand. Dominates Marketing."],
-  ["COO", "The Operator", "Runs burn and the path to profit. Dominates Monetization."],
-  ["Lead Investor", "The Bankroll", "Provides capital and sets the board's ego baseline."],
+  ["CEO", "The Visionary", "Drives the core Vision of the company, while keeping a hand in every department."],
+  ["CTO", "The Architect", "Drives the Tech output, but exerts influence across the rest of the company."],
+  ["Lead SWE", "The Builder", "Code Monkey"],
+  ["CMO", "The Marketer", "Works on Marketing reach and user acquisition."],
+  ["COO", "The Revenue Chief", "Focused on Monetization and optimizing cash flow."],
+  ["Lead Investor", "The Bankroll", "Provides the Money to fund the company"],
 ];
 
 function Step({ n, title, body }: { n: number; title: string; body: string }) {
@@ -67,30 +67,30 @@ export default function InstructionsDialog({ open, onClose }: Props) {
       </DialogTitle>
       <DialogContent dividers>
         <Typography color="text.secondary" sx={{ mb: 2.5 }}>
-          SpaceXEY is a draft and pray roguelike. You assemble a startup from the legends of
-          tech history, then take it public and see how it turns out. You do not pick the best
-          players; you are handed random ones and make the most of the hand you are dealt.
+          SpaceXEY is a startup-building game. Spin to reveal real companies from tech history,
+          draft their actual founders and operators into your six roles, then take the company
+          public. How well those people fit together decides whether you build a giant or a bust.
         </Typography>
 
         <Step
           n={1}
           title="Set your bet"
-          body="Commit to a Technical Track (Hardware or Software) and an Industry. Your track decides which Tech rating counts, and matching a founder's specialty to your industry gives their Tech a small synergy bonus. Locked for the run."
+          body="Choose a Technical Track (Hardware or Software) and an Industry, locked for the run. Your track decides whether each founder's Hardware or Software Tech rating counts, and matching a founder's specialty to your industry gives their Tech a small bonus."
         />
         <Step
           n={2}
           title="Spin for a company"
-          body="Each spin lands on a random company from a specific era (2010s Tesla is different from 2000s Tesla) and reveals that team's real founders and operators."
+          body="Each spin lands on a random company from a specific era (ie 1990s Google) and reveals notable people from that time who you can draft onto your team."
         />
         <Step
           n={3}
-          title="Draft a player, then place them"
-          body="Click a founder in the reveal to hold them, then click an open role slot to place them there. Deal three investors for the money slot and pick one. One roll per pick, so choose wisely."
+          title="Draft a person, then place them"
+          body="Click a founder to hold them, then click an open role slot to place them there. For the money slot you're given three random investors; pick one. You get one shot per pick, so choose carefully."
         />
         <Step
           n={4}
           title="Take it public"
-          body="Once all six slots are filled, take the company public and watch it resolve into an outcome, for better or worse."
+          body="Once all six slots are filled, take the company public and see how it performs, from a runaway success to an outright bust."
         />
 
         <Divider sx={{ my: 2 }} />

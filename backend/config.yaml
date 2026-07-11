@@ -55,8 +55,5 @@ weights:
   tech:         { CEO: 0.05, CTO: 0.50, SWE: 0.45, CMO: 0.00, COO: 0.00, INV: 0.00 }
   deception:    { CEO: 0.40, CTO: 0.10, SWE: 0.00, CMO: 0.50, COO: 0.00, INV: 0.00 }
   monetization: { CEO: 0.25, CTO: 0.05, SWE: 0.00, CMO: 0.10, COO: 0.60, INV: 0.00 }
-  # Rebalanced: raised CMO/COO ego weight (0.10 -> 0.16) so mega-ego showmen
-  # can no longer launder a 95+ ego by sitting in the marketing/ops seat.
-  # CEO/CTO/INV trimmed to keep the individual row summing to 1.00.
   ego_individual: { CEO: 0.28, CTO: 0.18, SWE: 0.10, CMO: 0.16, COO: 0.16, INV: 0.12 }
   ego_entity:     { CEO: 0.28, CTO: 0.21, SWE: 0.13, CMO: 0.19, COO: 0.19, INV: 0.00 }

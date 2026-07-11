@@ -43,6 +43,7 @@ INVESTOR_ACCENTS: Dict[str, str] = {
 class Person:
     name: str
     wikipedia: Optional[str]
+    github: Optional[str]
     company: str
     era: str
     vision: float
@@ -187,7 +188,7 @@ def _load_people(path: Path, wealth_by_name: Dict[str, float]) -> List[Person]:
         required = {
             "Name", "Company", "Era", "Vision", "Marketing",
             "Tech (HW)", "Tech (SW)", "Specialty", "Deception",
-            "Ego", "Monetization",
+            "Ego", "Monetization", "GitHub Link",
         }
         missing = required - set(reader.fieldnames or [])
         if missing:
@@ -207,6 +208,7 @@ def _load_people(path: Path, wealth_by_name: Dict[str, float]) -> List[Person]:
                 Person(
                     name=name,
                     wikipedia=(row.get("Wikipedia Link") or "").strip() or None,
+                    github=(row.get("GitHub Link") or "").strip() or None,
                     company=company,
                     era=era,
                     vision=_num(row["Vision"], field="Vision", ctx=ctx),

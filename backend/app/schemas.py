@@ -36,6 +36,7 @@ class CardDTO(BaseModel):
     specialty: Optional[str] = None
     type: Optional[str] = None  # investor: "Individual" | "Entity"
     wikipedia: Optional[str] = None
+    github: Optional[str] = None
     stats: CardStats
     accent: str
     alreadyWealthy: bool = False
@@ -50,6 +51,7 @@ def person_card(p: Person) -> CardDTO:
         era=p.era,
         specialty=p.specialty,
         wikipedia=p.wikipedia,
+        github=p.github,
         stats=CardStats(
             vision=p.vision,
             marketing=p.marketing,

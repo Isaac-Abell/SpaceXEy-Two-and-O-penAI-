@@ -1,324 +1,347 @@
-Name,Wikipedia Link,Company,Era,Vision,Marketing,Tech (HW),Tech (SW),Specialty,Deception,Ego,Monetization
-Linus Torvalds,https://en.wikipedia.org/wiki/Linus_Torvalds,Linux,2010s,20,20,85,99,Infra,10,30,0
-Linus Torvalds,https://en.wikipedia.org/wiki/Linus_Torvalds,Linux,2000s,20,20,85,99,Infra,10,30,0
-Linus Torvalds,https://en.wikipedia.org/wiki/Linus_Torvalds,Linux,1990s,20,20,85,99,Infra,10,30,0
-Bill Gates,https://en.wikipedia.org/wiki/Bill_Gates,Microsoft,1970s,95,80,30,90,Infra,25,75,85
-Paul Allen,https://en.wikipedia.org/wiki/Paul_Allen,Microsoft,1970s,65,20,80,93,Infra,5,30,40
-Bill Gates,https://en.wikipedia.org/wiki/Bill_Gates,Microsoft,1980s,98,88,30,85,B2B,30,85,92
-Steve Ballmer,https://en.wikipedia.org/wiki/Steve_Ballmer,Microsoft,1980s,70,95,5,10,B2B,40,90,85
-Paul Allen,https://en.wikipedia.org/wiki/Paul_Allen,Microsoft,1980s,70,20,75,90,B2B,5,35,45
-Bill Gates,https://en.wikipedia.org/wiki/Bill_Gates,Microsoft,1990s,99,90,25,70,B2B,45,95,98
-Steve Ballmer,https://en.wikipedia.org/wiki/Steve_Ballmer,Microsoft,1990s,75,96,5,5,B2B,45,95,90
-Nathan Myhrvold,https://en.wikipedia.org/wiki/Nathan_Myhrvold,Microsoft,1990s,85,60,40,80,Infra,20,70,50
-Steven Sinofsky,https://en.wikipedia.org/wiki/Steven_Sinofsky,Microsoft,1990s,70,50,10,85,Infra,15,80,75
-Satya Nadella,https://en.wikipedia.org/wiki/Satya_Nadella,Microsoft,2010s,74,64,20,75,Infra,15,40,95
-Scott Guthrie,https://en.wikipedia.org/wiki/Scott_Guthrie,Microsoft,2010s,80,60,10,92,Infra,5,25,80
-Amy Hood,https://en.wikipedia.org/wiki/Amy_Hood,Microsoft,2010s,75,50,5,10,B2B,10,30,89
-Steve Jobs,https://en.wikipedia.org/wiki/Steve_Jobs,Apple,1970s,98,95,10,10,Computers,40,85,75
-Steve Wozniak,https://en.wikipedia.org/wiki/Steve_Wozniak,Apple,1970s,60,10,99,85,Computers,5,15,20
-Mike Markkula,https://en.wikipedia.org/wiki/Mike_Markkula,Apple,1970s,80,70,20,20,Computers,20,50,85
-Steve Jobs,https://en.wikipedia.org/wiki/Steve_Jobs,Apple,1980s,99,99,15,15,Computers,52,95,80
-John Sculley,https://en.wikipedia.org/wiki/John_Sculley,Apple,1980s,65,85,5,5,Computers,30,80,75
-Jef Raskin,https://en.wikipedia.org/wiki/Jef_Raskin,Apple,1980s,85,40,40,75,Computers,10,65,30
-Gil Amelio,https://en.wikipedia.org/wiki/Gil_Amelio,Apple,1990s,55,45,50,50,Computers,20,60,40
-Michael Spindler,https://en.wikipedia.org/wiki/Michael_Spindler,Apple,1990s,50,40,45,45,Computers,20,55,45
-Ellen Hancock,https://en.wikipedia.org/wiki/Ellen_Hancock,Apple,1990s,60,40,30,70,Infra,15,50,50
-Steve Jobs,https://en.wikipedia.org/wiki/Steve_Jobs,Apple,2000s,99,99,20,20,B2C,58,98,95
-Tim Cook,https://en.wikipedia.org/wiki/Tim_Cook,Apple,2000s,48,60,30,20,B2C,15,45,99
-Jony Ive,https://en.wikipedia.org/wiki/Jony_Ive,Apple,2000s,92,85,90,10,Computers,15,75,70
-Scott Forstall,https://en.wikipedia.org/wiki/Scott_Forstall,Apple,2000s,88,75,15,92,B2C,30,85,75
-Phil Schiller,https://en.wikipedia.org/wiki/Phil_Schiller,Apple,2000s,75,92,10,10,B2C,35,60,80
-Tim Cook,https://en.wikipedia.org/wiki/Tim_Cook,Apple,2010s,55,70,25,15,B2C,10,60,99
-Jony Ive,https://en.wikipedia.org/wiki/Jony_Ive,Apple,2010s,90,80,92,10,Computers,10,85,65
-Craig Federighi,https://en.wikipedia.org/wiki/Craig_Federighi,Apple,2010s,80,85,10,90,B2C,10,30,75
-Eddy Cue,https://en.wikipedia.org/wiki/Eddy_Cue,Apple,2010s,78,70,10,65,B2C,20,60,90
-Larry Page,https://en.wikipedia.org/wiki/Larry_Page,Google,1990s,96,70,15,92,Infra,20,70,60
-Sergey Brin,https://en.wikipedia.org/wiki/Sergey_Brin,Google,1990s,94,75,15,93,Infra,20,75,55
-Craig Silverstein,https://en.wikipedia.org/wiki/Craig_Silverstein,Google,1990s,70,30,20,98,Infra,5,20,40
-Eric Schmidt,https://en.wikipedia.org/wiki/Eric_Schmidt,Google,2000s,63,80,10,60,B2B,25,70,95
-Larry Page,https://en.wikipedia.org/wiki/Larry_Page,Google,2000s,98,80,20,90,B2C,25,85,80
-Sergey Brin,https://en.wikipedia.org/wiki/Sergey_Brin,Google,2000s,95,82,25,90,B2C,25,85,75
-Marissa Mayer,https://en.wikipedia.org/wiki/Marissa_Mayer,Google,2000s,80,82,5,75,B2C,20,75,70
-Jeff Dean,https://en.wikipedia.org/wiki/Jeff_Dean,Google,2000s,85,30,40,99,Infra,5,20,40
-Larry Page,https://en.wikipedia.org/wiki/Larry_Page,Google,2010s,99,85,30,80,B2C,30,90,85
-Sundar Pichai,https://en.wikipedia.org/wiki/Sundar_Pichai,Google,2010s,68,75,15,80,B2C,15,45,92
-Susan Wojcicki,https://en.wikipedia.org/wiki/Susan_Wojcicki,Google,2010s,70,88,5,40,B2C,20,50,94
-Amit Singhal,https://en.wikipedia.org/wiki/Amit_Singhal,Google,2010s,80,45,10,94,Infra,15,65,70
-Jeff Bezos,https://en.wikipedia.org/wiki/Jeff_Bezos,Amazon,1990s,98,85,10,70,B2C,35,90,85
-MacKenzie Scott,https://en.wikipedia.org/wiki/MacKenzie_Scott,Amazon,1990s,80,50,5,20,B2C,10,20,70
-Shel Kaphan,https://en.wikipedia.org/wiki/Shel_Kaphan,Amazon,1990s,70,20,30,96,B2C,5,25,40
-Jeff Bezos,https://en.wikipedia.org/wiki/Jeff_Bezos,Amazon,2000s,99,92,10,65,B2C,40,96,95
-Andy Jassy,https://en.wikipedia.org/wiki/Andy_Jassy,Amazon,2000s,92,80,20,70,Infra,15,60,96
-Werner Vogels,https://en.wikipedia.org/wiki/Werner_Vogels,Amazon,2000s,90,75,30,95,Infra,10,45,85
-Mark Zuckerberg,https://en.wikipedia.org/wiki/Mark_Zuckerberg,Meta,2000s,97,80,10,92,B2C,40,90,85
-Dustin Moskovitz,https://en.wikipedia.org/wiki/Dustin_Moskovitz,Meta,2000s,80,40,5,90,B2C,10,40,60
-Eduardo Saverin,https://en.wikipedia.org/wiki/Eduardo_Saverin,Meta,2000s,70,60,5,30,B2C,30,70,65
-Chris Hughes,https://en.wikipedia.org/wiki/Chris_Hughes,Meta,2000s,75,85,5,25,B2C,25,50,50
-Mark Zuckerberg,https://en.wikipedia.org/wiki/Mark_Zuckerberg,Meta,2010s,99,88,15,80,B2C,45,96,95
-Sheryl Sandberg,https://en.wikipedia.org/wiki/Sheryl_Sandberg,Meta,2010s,58,90,5,10,B2B,30,75,96
-Mike Schroepfer,https://en.wikipedia.org/wiki/Mike_Schroepfer,Meta,2010s,68,60,50,92,Infra,10,40,80
-Chris Cox,https://en.wikipedia.org/wiki/Chris_Cox,Meta,2010s,90,85,10,85,B2C,20,55,85
-Robert Noyce,https://en.wikipedia.org/wiki/Robert_Noyce,Intel,1960s,93,85,95,5,Chips,20,65,80
-Gordon Moore,https://en.wikipedia.org/wiki/Gordon_Moore,Intel,1960s,94,60,96,10,Chips,10,40,75
-Andy Grove,https://en.wikipedia.org/wiki/Andy_Grove,Intel,1970s,92,85,85,30,Chips,25,88,95
-Gordon Moore,https://en.wikipedia.org/wiki/Gordon_Moore,Intel,1970s,90,65,92,15,Chips,10,45,80
-Robert Noyce,https://en.wikipedia.org/wiki/Robert_Noyce,Intel,1970s,90,88,88,5,Chips,25,70,82
-Federico Faggin,https://en.wikipedia.org/wiki/Federico_Faggin,Intel,1970s,85,50,98,40,Chips,10,60,40
-Jerry Sanders,https://en.wikipedia.org/wiki/Jerry_Sanders,AMD,1970s,85,92,40,5,Chips,40,96,75
-Edwin Turney,https://en.wikipedia.org/wiki/Edwin_Turney,AMD,1970s,65,70,75,5,Chips,20,50,70
-Lisa Su,https://en.wikipedia.org/wiki/Lisa_Su,AMD,2010s,85,88,95,60,Chips,15,40,96
-Rory Read,https://en.wikipedia.org/wiki/Rory_Read,AMD,2010s,70,75,20,20,Chips,25,65,80
-Mark Papermaster,https://en.wikipedia.org/wiki/Mark_Papermaster,AMD,2010s,82,50,92,55,Chips,5,30,70
-Jensen Huang,https://en.wikipedia.org/wiki/Jensen_Huang,Nvidia,1990s,92,85,90,70,Chips,25,70,75
-Chris Malachowsky,https://en.wikipedia.org/wiki/Chris_Malachowsky,Nvidia,1990s,80,50,92,60,Chips,10,45,65
-Curtis Priem,https://en.wikipedia.org/wiki/Curtis_Priem,Nvidia,1990s,75,30,95,50,Chips,5,35,40
-Jensen Huang,https://en.wikipedia.org/wiki/Jensen_Huang,Nvidia,2020s,99,98,80,60,Chips,30,80,98
-Colette Kress,https://en.wikipedia.org/wiki/Colette_Kress,Nvidia,2020s,80,70,10,20,Chips,15,35,89
-Bryan Catanzaro,https://en.wikipedia.org/wiki/Bryan_Catanzaro,Nvidia,2020s,88,65,70,94,Chips,10,40,60
-Larry Ellison,https://en.wikipedia.org/wiki/Larry_Ellison,Oracle,1980s,94,95,15,30,B2B,50,96,90
-Bob Miner,https://en.wikipedia.org/wiki/Bob_Miner,Oracle,1980s,70,20,30,92,B2B,5,40,50
-Ed Oates,https://en.wikipedia.org/wiki/Ed_Oates,Oracle,1980s,70,25,25,88,B2B,5,30,45
-Larry Ellison,https://en.wikipedia.org/wiki/Larry_Ellison,Oracle,1990s,91,97,15,25,B2B,55,98,96
-Ray Lane,https://en.wikipedia.org/wiki/Ray_Lane,Oracle,1990s,82,85,10,40,B2B,30,75,92
-Jeff Henley,https://en.wikipedia.org/wiki/Jeff_Henley,Oracle,1990s,75,60,5,15,B2B,20,50,89
-Dietmar Hopp,https://en.wikipedia.org/wiki/Dietmar_Hopp,SAP,1970s,90,75,20,85,B2B,15,65,88
-Hasso Plattner,https://en.wikipedia.org/wiki/Hasso_Plattner,SAP,1970s,92,80,25,90,B2B,15,75,85
-Klaus Tschira,https://en.wikipedia.org/wiki/Klaus_Tschira,SAP,1970s,75,30,15,92,B2B,5,35,60
-Bill McDermott,https://en.wikipedia.org/wiki/Bill_McDermott,SAP,2010s,72,94,5,35,B2B,40,90,94
-Jim Hagemann Snabe,https://en.wikipedia.org/wiki/Jim_Hagemann_Snabe,SAP,2010s,68,75,10,70,B2B,15,50,88
-Shai Agassi,https://en.wikipedia.org/wiki/Shai_Agassi,SAP,2010s,90,85,20,82,B2B,35,80,70
-Marc Benioff,https://en.wikipedia.org/wiki/Marc_Benioff,Salesforce,2000s,93,96,10,65,B2B,45,92,92
-Parker Harris,https://en.wikipedia.org/wiki/Parker_Harris,Salesforce,2000s,80,45,15,94,B2B,5,35,75
-Halsey Minor,https://en.wikipedia.org/wiki/Halsey_Minor,Salesforce,2000s,88,85,5,50,B2B,40,85,80
-John Warnock,https://en.wikipedia.org/wiki/John_Warnock,Adobe,1980s,94,70,40,95,B2B,10,50,85
-Charles Geschke,https://en.wikipedia.org/wiki/Charles_Geschke,Adobe,1980s,90,65,35,92,B2B,10,45,82
-Bruce Chizen,https://en.wikipedia.org/wiki/Bruce_Chizen,Adobe,2000s,66,82,5,55,B2B,20,60,92
-Shantanu Narayen,https://en.wikipedia.org/wiki/Shantanu_Narayen,Adobe,2000s,93,85,10,75,B2B,15,55,96
-Thomas Watson Jr.,https://en.wikipedia.org/wiki/Thomas_Watson_Jr.,IBM,1960s,92,85,70,40,Computers,20,88,95
-Gene Amdahl,https://en.wikipedia.org/wiki/Gene_Amdahl,IBM,1960s,85,40,96,50,Computers,10,75,50
-Fred Brooks,https://en.wikipedia.org/wiki/Fred_Brooks,IBM,1960s,88,40,60,92,Infra,5,50,45
-John Opel,https://en.wikipedia.org/wiki/John_Opel,IBM,1980s,75,70,50,40,Computers,15,60,85
-Don Estridge,https://en.wikipedia.org/wiki/Don_Estridge,IBM,1980s,90,85,85,50,Computers,15,55,90
-Leonard Bosack,https://en.wikipedia.org/wiki/Leonard_Bosack,Cisco,1980s,88,30,94,80,Infra,10,55,40
-Sandy Lerner,https://en.wikipedia.org/wiki/Sandy_Lerner,Cisco,1980s,88,70,70,70,Infra,25,80,65
-John Chambers,https://en.wikipedia.org/wiki/John_Chambers,Cisco,1990s,76,92,30,50,Infra,35,85,96
-John Morgridge,https://en.wikipedia.org/wiki/John_Morgridge,Cisco,1990s,80,75,20,45,Infra,20,60,94
-Bill Hewlett,https://en.wikipedia.org/wiki/Bill_Hewlett,HP,1960s,92,65,95,20,Computers,5,30,90
-David Packard,https://en.wikipedia.org/wiki/David_Packard,HP,1960s,92,75,90,20,Computers,5,35,95
-Carly Fiorina,https://en.wikipedia.org/wiki/Carly_Fiorina,HP,2000s,70,90,5,10,Computers,45,92,60
-Mark Hurd,https://en.wikipedia.org/wiki/Mark_Hurd,HP,2000s,72,80,5,15,Computers,30,85,92
-William Shockley,https://en.wikipedia.org/wiki/William_Shockley,Fairchild,1950s,90,60,98,1,Chips,15,99,30
-Robert Noyce,https://en.wikipedia.org/wiki/Robert_Noyce,Fairchild,1950s,94,82,94,5,Chips,20,60,75
-Gordon Moore,https://en.wikipedia.org/wiki/Gordon_Moore,Fairchild,1950s,93,55,95,5,Chips,10,35,70
-Sherman Fairchild,https://en.wikipedia.org/wiki/Sherman_Fairchild,Fairchild,1950s,85,70,60,5,Chips,15,50,88
-Morris Chang,https://en.wikipedia.org/wiki/Morris_Chang,TSMC,2010s,94,75,80,20,Chips,15,60,99
-Mark Liu,https://en.wikipedia.org/wiki/Mark_Liu,TSMC,2010s,68,65,94,35,Chips,10,45,93
-C.C. Wei,https://en.wikipedia.org/wiki/C.C._Wei,TSMC,2010s,70,70,95,40,Chips,10,40,96
-Robin Saxby,https://en.wikipedia.org/wiki/Robin_Saxby,ARM,1990s,94,85,70,60,Chips,20,60,94
-Sophie Wilson,https://en.wikipedia.org/wiki/Sophie_Wilson,ARM,1990s,85,20,96,90,Chips,5,25,45
-Steve Furber,https://en.wikipedia.org/wiki/Steve_Furber,ARM,1990s,82,15,95,82,Chips,5,25,40
-Gjalt Smit,https://en.wikipedia.org/wiki/Gjalt_Smit,ASML,1980s,90,75,70,30,Chips,20,65,75
-Arthur del Prado,https://en.wikipedia.org/wiki/Arthur_del_Prado,ASML,1980s,88,80,60,20,Chips,25,70,82
-Irwin M. Jacobs,https://en.wikipedia.org/wiki/Irwin_M._Jacobs,Qualcomm,1980s,94,75,94,50,Chips,10,50,92
-Andrew Viterbi,https://en.wikipedia.org/wiki/Andrew_Viterbi,Qualcomm,1980s,88,35,98,65,Chips,5,35,60
-Harvey White,https://en.wikipedia.org/wiki/Harvey_White,Qualcomm,1980s,80,80,30,30,Chips,20,50,88
-Martin Eberhard,https://en.wikipedia.org/wiki/Martin_Eberhard,Tesla,2000s,88,65,85,50,Deep Tech,20,70,45
-Marc Tarpenning,https://en.wikipedia.org/wiki/Marc_Tarpenning,Tesla,2000s,82,40,82,65,Deep Tech,10,35,50
-Elon Musk,https://en.wikipedia.org/wiki/Elon_Musk,Tesla,2000s,97,95,40,30,Deep Tech,55,95,70
-Ian Wright,https://en.wikipedia.org/wiki/Ian_Wright,Tesla,2000s,75,20,90,45,Deep Tech,5,40,30
-Elon Musk,https://en.wikipedia.org/wiki/Elon_Musk,Tesla,2010s,99,99,45,35,Deep Tech,65,98,85
-JB Straubel,https://en.wikipedia.org/wiki/JB_Straubel,Tesla,2010s,92,45,96,75,Deep Tech,10,30,75
-Franz von Holzhausen,https://en.wikipedia.org/wiki/Franz_von_Holzhausen,Tesla,2010s,88,85,92,10,Deep Tech,15,60,65
-Deepak Ahuja,https://en.wikipedia.org/wiki/Deepak_Ahuja,Tesla,2010s,75,50,10,25,Deep Tech,15,35,94
-Elon Musk,https://en.wikipedia.org/wiki/Elon_Musk,SpaceX,2000s,98,96,40,30,Deep Tech,55,96,65
-Tom Mueller,https://en.wikipedia.org/wiki/Tom_Mueller,SpaceX,2000s,75,25,96,30,Deep Tech,5,35,30
-Gwynne Shotwell,https://en.wikipedia.org/wiki/Gwynne_Shotwell,SpaceX,2000s,85,80,50,35,Deep Tech,15,40,92
-Elon Musk,https://en.wikipedia.org/wiki/Elon_Musk,SpaceX,2010s,99,98,45,35,Deep Tech,60,97,80
-Gwynne Shotwell,https://en.wikipedia.org/wiki/Gwynne_Shotwell,SpaceX,2010s,90,85,60,40,Deep Tech,15,45,88
-Tom Mueller,https://en.wikipedia.org/wiki/Tom_Mueller,SpaceX,2010s,75,20,95,25,Deep Tech,5,30,35
-Palmer Luckey,https://en.wikipedia.org/wiki/Palmer_Luckey,Anduril,2010s,92,92,88,60,Deep Tech,30,88,82
-Trae Stephens,https://en.wikipedia.org/wiki/Trae_Stephens,Anduril,2010s,88,75,20,45,Deep Tech,20,55,90
-Brian Schimpf,https://en.wikipedia.org/wiki/Brian_Schimpf,Anduril,2010s,85,50,55,92,Deep Tech,10,45,75
-Rod Canion,https://en.wikipedia.org/wiki/Rod_Canion,Compaq,1980s,90,80,75,45,Computers,15,50,88
-Jim Harris,https://en.wikipedia.org/wiki/Jim_Harris,Compaq,1980s,75,30,88,40,Computers,5,30,60
-Bill Murto,https://en.wikipedia.org/wiki/Bill_Murto,Compaq,1980s,80,85,30,20,Computers,20,45,75
-Mike Lazaridis,https://en.wikipedia.org/wiki/Mike_Lazaridis,BlackBerry,1990s,94,60,95,75,Computers,10,65,85
-Jim Balsillie,https://en.wikipedia.org/wiki/Jim_Balsillie,BlackBerry,1990s,85,88,15,30,B2B,35,85,94
-Douglas Fregin,https://en.wikipedia.org/wiki/Douglas_Fregin,BlackBerry,1990s,70,15,90,65,Computers,5,25,50
-Jack Dorsey,https://en.wikipedia.org/wiki/Jack_Dorsey,Twitter,2000s,92,88,10,70,B2C,35,85,60
-Biz Stone,https://en.wikipedia.org/wiki/Biz_Stone,Twitter,2000s,85,82,5,60,B2C,20,50,55
-Evan Williams,https://en.wikipedia.org/wiki/Evan_Williams,Twitter,2000s,88,75,10,75,B2C,25,70,65
-Noah Glass,https://en.wikipedia.org/wiki/Noah_Glass,Twitter,2000s,85,50,5,80,B2C,20,65,30
-Travis Kalanick,https://en.wikipedia.org/wiki/Travis_Kalanick,Uber,2010s,92,91,15,50,B2C,78,98,85
-Garrett Camp,https://en.wikipedia.org/wiki/Garrett_Camp,Uber,2010s,94,70,15,80,B2C,15,55,75
-Ryan Graves,https://en.wikipedia.org/wiki/Ryan_Graves,Uber,2010s,80,80,10,40,B2C,25,50,80
-Emil Michael,https://en.wikipedia.org/wiki/Emil_Michael,Uber,2010s,60,85,5,25,B2C,45,85,88
-Brian Chesky,https://en.wikipedia.org/wiki/Brian_Chesky,Airbnb,2000s,92,91,5,30,B2C,35,85,90
-Joe Gebbia,https://en.wikipedia.org/wiki/Joe_Gebbia,Airbnb,2000s,90,88,5,25,B2C,20,60,75
-Nathan Blecharczyk,https://en.wikipedia.org/wiki/Nathan_Blecharczyk,Airbnb,2000s,85,45,15,92,B2C,5,35,80
-Pierre Omidyar,https://en.wikipedia.org/wiki/Pierre_Omidyar,eBay,1990s,94,75,10,88,B2C,15,50,90
-Jeff Skoll,https://en.wikipedia.org/wiki/Jeff_Skoll,eBay,1990s,85,70,5,50,B2C,15,45,92
-Meg Whitman,https://en.wikipedia.org/wiki/Meg_Whitman,eBay,1990s,82,85,5,20,B2C,25,75,95
-Peter Thiel,https://en.wikipedia.org/wiki/Peter_Thiel,PayPal,2000s,93,80,5,40,B2C,35,85,90
-Max Levchin,https://en.wikipedia.org/wiki/Max_Levchin,PayPal,2000s,80,40,10,95,B2C,15,65,70
-Elon Musk,https://en.wikipedia.org/wiki/Elon_Musk,PayPal,2000s,94,92,25,45,B2C,45,92,65
-Luke Nosek,https://en.wikipedia.org/wiki/Luke_Nosek,PayPal,2000s,82,65,5,35,B2C,20,50,70
-Ken Howery,https://en.wikipedia.org/wiki/Ken_Howery,PayPal,2000s,80,60,5,20,B2C,15,40,85
-David Sacks,https://en.wikipedia.org/wiki/David_Sacks,PayPal,2000s,85,80,5,35,B2C,30,75,88
-Reed Hastings,https://en.wikipedia.org/wiki/Reed_Hastings,Netflix,1990s,96,85,10,65,B2C,25,75,92
-Marc Randolph,https://en.wikipedia.org/wiki/Marc_Randolph,Netflix,1990s,90,88,5,45,B2C,25,60,75
-Reed Hastings,https://en.wikipedia.org/wiki/Reed_Hastings,Netflix,2010s,98,90,15,80,B2C,20,80,97
-Ted Sarandos,https://en.wikipedia.org/wiki/Ted_Sarandos,Netflix,2010s,94,92,5,20,B2C,25,75,93
-Mitch Lowe,https://en.wikipedia.org/wiki/Mitch_Lowe,Netflix,2010s,82,80,5,30,B2C,40,70,70
-Henrique Dubugras,https://en.wikipedia.org/wiki/Henrique_Dubugras,Brex,2010s,90,92,5,60,B2B,35,75,85
-Pedro Franceschi,https://en.wikipedia.org/wiki/Pedro_Franceschi,Brex,2010s,82,50,5,92,B2B,10,45,70
-Evan Spiegel,https://en.wikipedia.org/wiki/Evan_Spiegel,Snapchat,2010s,94,92,5,45,B2C,35,92,75
-Bobby Murphy,https://en.wikipedia.org/wiki/Bobby_Murphy,Snapchat,2010s,78,20,10,94,B2C,5,30,60
-Reggie Brown,https://en.wikipedia.org/wiki/Reggie_Brown,Snapchat,2010s,82,40,5,40,B2C,20,60,30
-Steve Huffman,https://en.wikipedia.org/wiki/Steve_Huffman,Reddit,2000s,88,65,5,88,B2C,20,65,55
-Alexis Ohanian,https://en.wikipedia.org/wiki/Alexis_Ohanian,Reddit,2000s,88,90,5,35,B2C,25,60,60
-Aaron Swartz,https://en.wikipedia.org/wiki/Aaron_Swartz,Reddit,2000s,92,50,10,94,B2C,5,30,10
-Jason Citron,https://en.wikipedia.org/wiki/Jason_Citron,Discord,2010s,92,85,10,85,B2C,20,65,70
-Stanislav Vishnevskiy,https://en.wikipedia.org/wiki/Stanislav_Vishnevskiy,Discord,2010s,80,30,10,94,B2C,5,35,50
-Daniel Ek,https://en.wikipedia.org/wiki/Daniel_Ek,Spotify,2000s,90,90,10,75,B2C,30,70,88
-Martin Lorentzon,https://en.wikipedia.org/wiki/Martin_Lorentzon,Spotify,2000s,85,75,5,40,B2C,20,50,85
-Patrick Collison,https://en.wikipedia.org/wiki/Patrick_Collison,Stripe,2010s,92,88,5,90,Infra,15,50,92
-John Collison,https://en.wikipedia.org/wiki/John_Collison,Stripe,2010s,93,90,5,75,Infra,15,45,94
-Jack Dorsey,https://en.wikipedia.org/wiki/Jack_Dorsey,Square,2000s,94,90,35,65,B2C,30,85,80
-Jim McKelvey,https://en.wikipedia.org/wiki/Jim_McKelvey,Square,2000s,85,75,75,45,B2C,15,45,70
-Tobias Lütke,https://en.wikipedia.org/wiki/Tobias_Lütke,Shopify,2000s,94,70,10,96,B2B,10,60,90
-Scott Lake,https://en.wikipedia.org/wiki/Scott_Lake,Shopify,2000s,80,75,5,50,B2B,15,50,75
-Zhang Yiming,https://en.wikipedia.org/wiki/Zhang_Yiming,ByteDance,2010s,94,88,10,93,B2C,35,75,94
-Liang Rubo,https://en.wikipedia.org/wiki/Liang_Rubo,ByteDance,2010s,82,50,10,92,B2C,10,40,85
-Pony Ma,https://en.wikipedia.org/wiki/Pony_Ma,Tencent,1990s,91,80,10,85,B2C,25,65,92
-Zhang Zhidong,https://en.wikipedia.org/wiki/Zhang_Zhidong,Tencent,1990s,80,25,10,94,B2C,5,30,60
-Jack Ma,https://en.wikipedia.org/wiki/Jack_Ma,Alibaba,1990s,96,98,1,10,B2C,45,95,90
-Joseph Tsai,https://en.wikipedia.org/wiki/Joseph_Tsai,Alibaba,1990s,88,75,5,20,B2C,20,50,96
-Dylan Field,https://en.wikipedia.org/wiki/Dylan_Field,Figma,2010s,94,88,5,88,B2B,15,55,85
-Evan Wallace,https://en.wikipedia.org/wiki/Evan_Wallace,Figma,2010s,80,30,5,96,B2B,5,35,50
-Melanie Perkins,https://en.wikipedia.org/wiki/Melanie_Perkins,Canva,2010s,94,92,5,45,B2B,20,60,90
-Cliff Obrecht,https://en.wikipedia.org/wiki/Cliff_Obrecht,Canva,2010s,85,85,5,30,B2B,20,50,92
-Cameron Adams,https://en.wikipedia.org/wiki/Cameron_Adams,Canva,2010s,82,60,5,88,B2B,5,40,70
-Jerry Yang,https://en.wikipedia.org/wiki/Jerry_Yang,Yahoo!,1990s,92,85,5,70,B2C,25,70,80
-David Filo,https://en.wikipedia.org/wiki/David_Filo,Yahoo!,1990s,85,40,10,88,B2C,10,40,65
-Tim Koogle,https://en.wikipedia.org/wiki/Tim_Koogle,Yahoo!,1990s,80,82,5,30,B2C,20,60,88
-Steve Case,https://en.wikipedia.org/wiki/Steve_Case,AOL,1990s,94,95,5,35,B2C,40,88,85
-Marc Seriff,https://en.wikipedia.org/wiki/Marc_Seriff,AOL,1990s,75,30,30,85,B2C,10,45,55
-William von Meister,https://en.wikipedia.org/wiki/William_von_Meister,AOL,1990s,88,80,20,50,B2C,50,85,40
-Sam Altman,https://en.wikipedia.org/wiki/Sam_Altman,OpenAI,2010s,94,90,10,40,Infra,50,50,85
-Ilya Sutskever,https://en.wikipedia.org/wiki/Ilya_Sutskever,OpenAI,2010s,92,40,10,98,Infra,10,50,40
-Greg Brockman,https://en.wikipedia.org/wiki/Greg_Brockman,OpenAI,2010s,85,70,15,95,Infra,15,60,65
-Wojciech Zaremba,https://en.wikipedia.org/wiki/Wojciech_Zaremba,OpenAI,2010s,80,25,10,94,Infra,5,35,30
-Dario Amodei,https://en.wikipedia.org/wiki/Dario_Amodei,Anthropic,2020s,90,65,10,93,Infra,15,55,60
-Daniela Amodei,https://en.wikipedia.org/wiki/Daniela_Amodei,Anthropic,2020s,88,75,5,50,Infra,15,50,82
-Jared Kaplan,https://en.wikipedia.org/wiki/Jared_Kaplan,Anthropic,2020s,85,40,10,92,Infra,5,45,50
-Peter Thiel,https://en.wikipedia.org/wiki/Peter_Thiel,Palantir,2000s,94,80,5,35,B2B,35,85,85
-Alex Karp,https://en.wikipedia.org/wiki/Alex_Karp,Palantir,2000s,90,88,5,50,B2B,35,88,80
-Joe Lonsdale,https://en.wikipedia.org/wiki/Joe_Lonsdale,Palantir,2000s,88,85,5,65,B2B,30,80,75
-Stephen Cohen,https://en.wikipedia.org/wiki/Stephen_Cohen,Palantir,2000s,82,45,10,90,B2B,10,45,65
-Demis Hassabis,https://en.wikipedia.org/wiki/Demis_Hassabis,DeepMind,2010s,93,75,15,94,Infra,15,65,50
-Mustafa Suleyman,https://en.wikipedia.org/wiki/Mustafa_Suleyman,DeepMind,2010s,92,90,5,40,B2C,35,80,70
-Shane Legg,https://en.wikipedia.org/wiki/Shane_Legg,DeepMind,2010s,88,30,10,94,Infra,5,40,30
-Gabe Newell,https://en.wikipedia.org/wiki/Gabe_Newell,Valve,1990s,91,85,20,85,B2C,20,75,92
-Mike Harrington,https://en.wikipedia.org/wiki/Mike_Harrington,Valve,1990s,80,45,15,92,B2C,5,40,75
-Tim Sweeney,https://en.wikipedia.org/wiki/Tim_Sweeney,Epic Games,1990s,92,65,40,98,Infra,15,70,88
-Mark Rein,https://en.wikipedia.org/wiki/Mark_Rein,Epic Games,1990s,80,90,5,30,B2B,35,80,85
-Trip Hawkins,https://en.wikipedia.org/wiki/Trip_Hawkins,Electronic Arts,1980s,94,92,10,60,B2C,35,90,82
-Bing Gordon,https://en.wikipedia.org/wiki/Bing_Gordon,Electronic Arts,1980s,85,88,5,45,B2C,25,65,85
-Brandon Beck,https://en.wikipedia.org/wiki/Brandon_Beck,Riot Games,2000s,92,90,5,55,B2C,20,65,88
-Marc Merrill,https://en.wikipedia.org/wiki/Marc_Merrill,Riot Games,2000s,90,88,5,50,B2C,20,70,85
-Hiroshi Yamauchi,https://en.wikipedia.org/wiki/Hiroshi_Yamauchi,Nintendo,1980s,90,85,60,10,Computers,35,98,96
-Shigeru Miyamoto,https://en.wikipedia.org/wiki/Shigeru_Miyamoto,Nintendo,1980s,93,75,30,92,B2C,5,50,80
-Gunpei Yokoi,https://en.wikipedia.org/wiki/Gunpei_Yokoi,Nintendo,1980s,92,40,95,45,Computers,5,35,75
-David Crane,https://en.wikipedia.org/wiki/David_Crane_(programmer),Activision,1970s,88,60,65,94,B2C,10,60,65
-Alan Miller,https://en.wikipedia.org/wiki/Alan_Miller,Activision,1970s,82,50,50,90,B2C,10,50,60
-Bob Whitehead,https://en.wikipedia.org/wiki/Bob_Whitehead,Activision,1970s,80,45,45,88,B2C,10,45,55
-Larry Kaplan,https://en.wikipedia.org/wiki/Larry_Kaplan,Activision,1970s,82,40,55,91,B2C,10,55,50
-David Baszucki,https://en.wikipedia.org/wiki/David_Baszucki,Roblox,2000s,94,80,15,85,B2C,25,65,88
-Erik Cassel,https://en.wikipedia.org/wiki/Erik_Cassel,Roblox,2000s,85,30,15,94,B2C,5,30,60
-David Helgason,https://en.wikipedia.org/wiki/David_Helgason,Unity,2000s,90,85,10,70,Infra,20,60,80
-Joachim Ante,https://en.wikipedia.org/wiki/Joachim_Ante,Unity,2000s,80,25,15,95,Infra,5,30,50
-Nicholas Francis,https://en.wikipedia.org/wiki/Nicholas_Francis,Unity,2000s,82,40,10,88,Infra,10,45,55
-Nolan Bushnell,https://en.wikipedia.org/wiki/Nolan_Bushnell,Atari,1970s,92,95,70,40,Computers,50,90,75
-Ted Dabney,https://en.wikipedia.org/wiki/Ted_Dabney,Atari,1970s,70,20,88,20,Computers,5,30,50
-Al Alcorn,https://en.wikipedia.org/wiki/Al_Alcorn,Atari,1970s,75,45,94,50,Computers,10,35,60
-Elizabeth Holmes,https://en.wikipedia.org/wiki/Elizabeth_Holmes,Theranos,2010s,88,95,2,2,Deep Tech,99,96,40
-Sunny Balwani,https://en.wikipedia.org/wiki/Sunny_Balwani,Theranos,2010s,60,70,5,5,Deep Tech,98,95,50
-Channing Robertson,https://en.wikipedia.org/wiki/Channing_Robertson,Theranos,2010s,70,75,45,10,Deep Tech,60,70,45
-Adam Neumann,https://en.wikipedia.org/wiki/Adam_Neumann,WeWork,2010s,94,95,5,5,B2C,92,98,65
-Miguel McKelvey,https://en.wikipedia.org/wiki/Miguel_McKelvey,WeWork,2010s,80,75,10,10,B2C,40,50,60
-Rebekah Neumann,https://en.wikipedia.org/wiki/Rebekah_Neumann,WeWork,2010s,75,80,5,5,B2C,70,92,35
-Sam Bankman-Fried,https://en.wikipedia.org/wiki/Sam_Bankman-Fried,FTX,2020s,90,89,5,45,B2C,99,94,70
-Gary Wang,https://en.wikipedia.org/wiki/Gary_Wang,FTX,2020s,75,15,10,92,B2C,75,35,45
-Caroline Ellison,https://en.wikipedia.org/wiki/Caroline_Ellison,FTX,2020s,50,40,5,30,B2C,95,60,30
-Nishad Singh,https://en.wikipedia.org/wiki/Nishad_Singh,FTX,2020s,70,30,5,90,B2C,80,45,40
-Kenneth Lay,https://en.wikipedia.org/wiki/Kenneth_Lay,Enron,1990s,88,90,5,5,B2B,96,94,80
-Jeffrey Skilling,https://en.wikipedia.org/wiki/Jeffrey_Skilling,Enron,1990s,85,92,5,5,B2B,98,95,85
-Andrew Fastow,https://en.wikipedia.org/wiki/Andrew_Fastow,Enron,1990s,70,75,5,5,B2B,99,88,90
-Jeffrey Katzenberg,https://en.wikipedia.org/wiki/Jeffrey_Katzenberg,Quibi,2020s,65,88,5,15,B2C,50,94,40
-Meg Whitman,https://en.wikipedia.org/wiki/Meg_Whitman,Quibi,2020s,60,80,5,15,B2C,35,85,65
-Doug Evans,https://en.wikipedia.org/wiki/Doug_Evans,Juicero,2010s,60,85,35,5,Computers,75,85,20
-Jeff Dunn,https://en.wikipedia.org/wiki/Jeff_Dunn,Juicero,2010s,65,70,10,5,Computers,40,65,55
-Marc Andreessen,https://en.wikipedia.org/wiki/Marc_Andreessen,Netscape,1990s,94,90,10,94,Infra,20,85,70
-Jim Clark,https://en.wikipedia.org/wiki/Jim_Clark,Netscape,1990s,91,85,60,65,Infra,25,88,85
-Jim Barksdale,https://en.wikipedia.org/wiki/Jim_Barksdale,Netscape,1990s,64,85,5,35,Infra,15,60,92
-Drew Houston,https://en.wikipedia.org/wiki/Drew_Houston,Dropbox,2000s,90,85,5,90,B2C,15,60,88
-Arash Ferdowsi,https://en.wikipedia.org/wiki/Arash_Ferdowsi,Dropbox,2000s,80,35,5,94,B2C,5,35,70
-Stewart Butterfield,https://en.wikipedia.org/wiki/Stewart_Butterfield,Slack,2010s,94,92,5,80,B2B,20,70,88
-Cal Henderson,https://en.wikipedia.org/wiki/Cal_Henderson,Slack,2010s,82,45,5,94,B2B,5,40,75
-Eric Costello,https://en.wikipedia.org/wiki/Eric_Costello,Slack,2010s,78,30,5,90,B2B,5,35,60
-Eric Yuan,https://en.wikipedia.org/wiki/Eric_Yuan,Zoom,2010s,93,85,5,95,B2B,15,50,94
-Dan Scheinman,https://en.wikipedia.org/wiki/Dan_Scheinman,Zoom,2010s,82,70,5,30,B2B,15,45,85
-Ben Silbermann,https://en.wikipedia.org/wiki/Ben_Silbermann,Pinterest,2010s,92,85,5,70,B2C,15,50,85
-Evan Sharp,https://en.wikipedia.org/wiki/Evan_Sharp,Pinterest,2010s,85,75,5,75,B2C,10,45,70
-Paul Sciarra,https://en.wikipedia.org/wiki/Paul_Sciarra,Pinterest,2010s,85,70,5,55,B2C,15,50,75
-Logan Green,https://en.wikipedia.org/wiki/Logan_Green,Lyft,2010s,92,82,10,50,B2C,25,60,75
-John Zimmer,https://en.wikipedia.org/wiki/John_Zimmer,Lyft,2010s,90,88,5,40,B2C,20,55,78
-Apoorva Mehta,https://en.wikipedia.org/wiki/Apoorva_Mehta,Instacart,2010s,92,88,10,65,B2C,35,80,82
-Max Mullen,https://en.wikipedia.org/wiki/Max_Mullen,Instacart,2010s,82,75,5,50,B2C,15,45,70
-Brandon Leonardo,https://en.wikipedia.org/wiki/Brandon_Leonardo,Instacart,2010s,80,40,5,88,B2C,5,35,65
-Tony Xu,https://en.wikipedia.org/wiki/Tony_Xu,DoorDash,2010s,93,88,10,60,B2C,30,75,90
-Stanley Tang,https://en.wikipedia.org/wiki/Stanley_Tang,DoorDash,2010s,82,65,5,85,B2C,15,50,70
-Andy Fang,https://en.wikipedia.org/wiki/Andy_Fang,DoorDash,2010s,82,60,5,88,B2C,10,45,72
-Brian Armstrong,https://en.wikipedia.org/wiki/Brian_Armstrong,Coinbase,2010s,94,85,5,75,B2C,30,70,92
-Fred Ehrsam,https://en.wikipedia.org/wiki/Fred_Ehrsam,Coinbase,2010s,90,80,5,65,B2C,25,65,85
-Vlad Tenev,https://en.wikipedia.org/wiki/Vlad_Tenev,Robinhood,2010s,92,92,5,65,B2C,45,80,85
-Baiju Bhatt,https://en.wikipedia.org/wiki/Baiju_Bhatt,Robinhood,2010s,88,85,5,70,B2C,35,75,80
-Ali Ghodsi,https://en.wikipedia.org/wiki/Ali_Ghodsi,Databricks,2010s,94,85,10,88,Infra,15,55,92
-Matei Zaharia,https://en.wikipedia.org/wiki/Matei_Zaharia,Databricks,2010s,88,40,15,98,Infra,5,35,60
-Ion Stoica,https://en.wikipedia.org/wiki/Ion_Stoica,Databricks,2010s,90,50,20,94,Infra,5,45,75
-Benoit Dageville,https://en.wikipedia.org/wiki/Benoit_Dageville,Snowflake,2010s,92,50,10,96,Infra,10,45,80
-Thierry Cruanes,https://en.wikipedia.org/wiki/Thierry_Cruanes,Snowflake,2010s,85,30,10,95,Infra,5,35,65
-Bob Muglia,https://en.wikipedia.org/wiki/Bob_Muglia,Snowflake,2010s,66,82,5,55,Infra,20,70,90
-Henry Samueli,https://en.wikipedia.org/wiki/Henry_Samueli,Broadcom,1990s,92,55,96,45,Chips,10,55,88
-Henry Nicholas,https://en.wikipedia.org/wiki/Henry_Nicholas,Broadcom,1990s,92,90,75,40,Chips,35,94,85
-Chris DeWolfe,https://en.wikipedia.org/wiki/Chris_DeWolfe,Myspace,2000s,88,88,5,45,B2C,25,75,75
-Tom Anderson,https://en.wikipedia.org/wiki/Tom_Anderson,Myspace,2000s,85,92,5,50,B2C,15,40,55
-Andrew Mason,https://en.wikipedia.org/wiki/Andrew_Mason,Groupon,2000s,88,90,5,45,B2C,35,75,75
-Eric Lefkofsky,https://en.wikipedia.org/wiki/Eric_Lefkofsky,Groupon,2000s,85,85,5,20,B2C,45,85,90
-Brad Keywell,https://en.wikipedia.org/wiki/Brad_Keywell,Groupon,2000s,82,80,5,20,B2C,30,75,85
-Mark Pincus,https://en.wikipedia.org/wiki/Mark_Pincus,Zynga,2000s,90,88,5,50,B2C,40,88,92
-Justin Waldron,https://en.wikipedia.org/wiki/Justin_Waldron,Zynga,2000s,82,60,5,85,B2C,15,50,65
-Dean Kamen,https://en.wikipedia.org/wiki/Dean_Kamen,Segway,2000s,88,92,94,40,Deep Tech,25,85,50
-Jimi Heselden,https://en.wikipedia.org/wiki/Jimi_Heselden,Segway,2000s,75,60,50,10,Deep Tech,15,45,85
-Marc Porat,https://en.wikipedia.org/wiki/Marc_Porat,General Magic,1990s,89,85,25,45,Computers,30,75,40
-Andy Hertzfeld,https://en.wikipedia.org/wiki/Andy_Hertzfeld,General Magic,1990s,88,40,20,94,Computers,5,45,30
-Bill Atkinson,https://en.wikipedia.org/wiki/Bill_Atkinson,General Magic,1990s,88,35,15,94,Computers,5,40,30
-Jack Tramiel,https://en.wikipedia.org/wiki/Jack_Tramiel,Commodore,1970s,92,85,40,20,Computers,40,96,92
-Chuck Peddle,https://en.wikipedia.org/wiki/Chuck_Peddle,Commodore,1970s,88,45,95,60,Chips,10,65,55
-Clive Sinclair,https://en.wikipedia.org/wiki/Clive_Sinclair,Sinclair,1980s,94,85,92,40,Computers,30,88,70
-Chris Curry,https://en.wikipedia.org/wiki/Chris_Curry,Sinclair,1980s,82,75,70,35,Computers,20,60,75
-Bob Taylor,https://en.wikipedia.org/wiki/Bob_Taylor,Xerox,1970s,92,75,50,70,Infra,15,70,40
-Alan Kay,https://en.wikipedia.org/wiki/Alan_Kay,Xerox,1970s,95,60,40,95,Computers,5,65,20
-Butler Lampson,https://en.wikipedia.org/wiki/Butler_Lampson,Xerox,1970s,88,20,65,96,Infra,5,40,20
-Dennis Ritchie,https://en.wikipedia.org/wiki/Dennis_Ritchie,Bell Labs,1970s,88,10,40,99,Infra,1,15,10
-Ken Thompson,https://en.wikipedia.org/wiki/Ken_Thompson,Bell Labs,1970s,92,10,50,99,Infra,1,15,10
-Steve Jobs,https://en.wikipedia.org/wiki/Steve_Jobs,NeXT,1980s,96,98,20,35,Computers,45,96,65
-Avie Tevanian,https://en.wikipedia.org/wiki/Avie_Tevanian,NeXT,1980s,85,40,10,96,Infra,5,45,60
-Bud Tribble,https://en.wikipedia.org/wiki/Bud_Tribble,NeXT,1980s,85,45,15,92,Infra,5,40,55
-Edwin Catmull,https://en.wikipedia.org/wiki/Edwin_Catmull,Pixar,1980s,94,55,30,96,B2C,5,35,82
-Alvy Ray Smith,https://en.wikipedia.org/wiki/Alvy_Ray_Smith,Pixar,1980s,90,65,35,92,B2C,10,50,70
-Steve Jobs,https://en.wikipedia.org/wiki/Steve_Jobs,Pixar,1980s,95,96,10,20,B2C,35,95,85
-Jeff Hawkins,https://en.wikipedia.org/wiki/Jeff_Hawkins,Palm,1990s,91,70,92,75,Computers,10,55,75
-Donna Dubinsky,https://en.wikipedia.org/wiki/Donna_Dubinsky,Palm,1990s,85,88,5,25,Computers,20,60,94
-Ed Colligan,https://en.wikipedia.org/wiki/Ed_Colligan,Palm,1990s,80,82,5,30,Computers,20,55,88
+﻿Name,Wikipedia Link,GitHub Link,Company,Era,Vision,Marketing,Tech (HW),Tech (SW),Specialty,Deception,Ego,Monetization
+Richard Stallman,https://en.wikipedia.org/wiki/Richard_Stallman,,Open Source,1980s,90,45,15,96,Infra,5,85,5
+Donald Knuth,https://en.wikipedia.org/wiki/Donald_Knuth,,Open Source,1980s,72,10,20,98,Infra,2,35,15
+Larry Wall,https://en.wikipedia.org/wiki/Larry_Wall,,Open Source,1980s,50,40,15,90,Infra,8,40,20
+Bill Joy,https://en.wikipedia.org/wiki/Bill_Joy,,Open Source,1980s,88,45,55,96,Infra,10,60,45
+Linus Torvalds,https://en.wikipedia.org/wiki/Linus_Torvalds,https://github.com/torvalds,Open Source,1990s,20,20,65,99,Infra,10,30,0
+Guido van Rossum,https://en.wikipedia.org/wiki/Guido_van_Rossum,https://github.com/gvanrossum,Open Source,1990s,55,35,10,95,Infra,8,40,20
+Tim Berners-Lee,https://en.wikipedia.org/wiki/Tim_Berners-Lee,,Open Source,1990s,97,55,15,92,Infra,5,45,5
+Brian Behlendorf,https://en.wikipedia.org/wiki/Brian_Behlendorf,,Open Source,1990s,62,45,10,88,Infra,8,40,40
+Linus Torvalds,https://en.wikipedia.org/wiki/Linus_Torvalds,https://github.com/torvalds,Open Source,2000s,20,20,65,99,Infra,10,30,0
+Fabrice Bellard,https://en.wikipedia.org/wiki/Fabrice_Bellard,,Open Source,2000s,40,10,70,99,Infra,2,15,35
+Igor Sysoev,https://en.wikipedia.org/wiki/Igor_Sysoev,,Open Source,2000s,45,15,40,96,Infra,5,25,45
+Matt Mullenweg,https://en.wikipedia.org/wiki/Matt_Mullenweg,https://github.com/M,Open Source,2000s,88,80,5,55,Infra,25,65,88
+Satoshi Nakamoto,https://en.wikipedia.org/wiki/Satoshi_Nakamoto,,Open Source,2000s,93,50,25,95,Infra,10,30,30
+Linus Torvalds,https://en.wikipedia.org/wiki/Linus_Torvalds,https://github.com/torvalds,Open Source,2010s,20,20,65,99,Infra,10,30,0
+Terry Davis,https://en.wikipedia.org/wiki/Terry_A._Davis,,Open Source,2010s,40,20,55,94,Infra,2,99,0
+Chris Lattner,https://en.wikipedia.org/wiki/Chris_Lattner,https://github.com/lattner,Open Source,2010s,88,55,55,98,Infra,8,50,55
+Solomon Hykes,https://en.wikipedia.org/wiki/Solomon_Hykes,https://github.com/shykes,Open Source,2010s,90,80,15,85,Infra,20,60,65
+Linus Torvalds,https://en.wikipedia.org/wiki/Linus_Torvalds,https://github.com/torvalds,Open Source,2020s,20,20,65,99,Infra,10,30,0
+Georgi Gerganov,,https://github.com/ggerganov,Open Source,2020s,55,30,65,96,Infra,5,25,35
+George Hotz,https://en.wikipedia.org/wiki/George_Hotz,https://github.com/geohot,Open Source,2020s,75,85,75,88,Infra,30,88,55
+Bill Gates,https://en.wikipedia.org/wiki/Bill_Gates,,Microsoft,1970s,95,80,30,90,Infra,25,75,85
+Paul Allen,https://en.wikipedia.org/wiki/Paul_Allen,,Microsoft,1970s,65,20,80,93,Infra,5,30,40
+Bill Gates,https://en.wikipedia.org/wiki/Bill_Gates,,Microsoft,1980s,98,88,30,85,B2B,30,85,92
+Steve Ballmer,https://en.wikipedia.org/wiki/Steve_Ballmer,,Microsoft,1980s,70,95,5,10,B2B,40,90,85
+Paul Allen,https://en.wikipedia.org/wiki/Paul_Allen,,Microsoft,1980s,70,20,75,90,B2B,5,35,45
+Bill Gates,https://en.wikipedia.org/wiki/Bill_Gates,,Microsoft,1990s,99,90,25,70,B2B,45,95,98
+Steve Ballmer,https://en.wikipedia.org/wiki/Steve_Ballmer,,Microsoft,1990s,75,96,5,5,B2B,45,95,90
+Nathan Myhrvold,https://en.wikipedia.org/wiki/Nathan_Myhrvold,,Microsoft,1990s,85,60,40,80,Infra,20,70,50
+Steven Sinofsky,https://en.wikipedia.org/wiki/Steven_Sinofsky,,Microsoft,1990s,70,50,10,85,Infra,15,80,75
+Satya Nadella,https://en.wikipedia.org/wiki/Satya_Nadella,,Microsoft,2010s,74,64,20,75,Infra,15,40,95
+Scott Guthrie,https://en.wikipedia.org/wiki/Scott_Guthrie,,Microsoft,2010s,80,60,10,92,Infra,5,25,80
+Amy Hood,https://en.wikipedia.org/wiki/Amy_Hood,,Microsoft,2010s,75,50,5,10,B2B,10,30,89
+Steve Jobs,https://en.wikipedia.org/wiki/Steve_Jobs,,Apple,1970s,98,95,10,10,Computers,40,85,75
+Steve Wozniak,https://en.wikipedia.org/wiki/Steve_Wozniak,,Apple,1970s,60,10,99,85,Computers,5,15,20
+Mike Markkula,https://en.wikipedia.org/wiki/Mike_Markkula,,Apple,1970s,80,70,20,20,Computers,20,50,85
+Steve Jobs,https://en.wikipedia.org/wiki/Steve_Jobs,,Apple,1980s,99,99,15,15,Computers,52,95,80
+John Sculley,https://en.wikipedia.org/wiki/John_Sculley,,Apple,1980s,65,85,5,5,Computers,30,80,75
+Jef Raskin,https://en.wikipedia.org/wiki/Jef_Raskin,,Apple,1980s,85,40,40,75,Computers,10,65,30
+Gil Amelio,https://en.wikipedia.org/wiki/Gil_Amelio,,Apple,1990s,55,45,50,50,Computers,20,60,40
+Michael Spindler,https://en.wikipedia.org/wiki/Michael_Spindler,,Apple,1990s,50,40,45,45,Computers,20,55,45
+Ellen Hancock,https://en.wikipedia.org/wiki/Ellen_Hancock,,Apple,1990s,60,40,30,70,Infra,15,50,50
+Steve Jobs,https://en.wikipedia.org/wiki/Steve_Jobs,,Apple,2000s,99,99,20,20,B2C,58,98,95
+Tim Cook,https://en.wikipedia.org/wiki/Tim_Cook,,Apple,2000s,48,60,30,20,B2C,15,45,99
+Jony Ive,https://en.wikipedia.org/wiki/Jony_Ive,,Apple,2000s,92,85,90,10,Computers,15,75,70
+Scott Forstall,https://en.wikipedia.org/wiki/Scott_Forstall,,Apple,2000s,88,75,15,92,B2C,30,85,75
+Phil Schiller,https://en.wikipedia.org/wiki/Phil_Schiller,,Apple,2000s,75,92,10,10,B2C,35,60,80
+Tim Cook,https://en.wikipedia.org/wiki/Tim_Cook,,Apple,2010s,55,70,25,15,B2C,10,60,99
+Jony Ive,https://en.wikipedia.org/wiki/Jony_Ive,,Apple,2010s,90,80,92,10,Computers,10,85,65
+Craig Federighi,https://en.wikipedia.org/wiki/Craig_Federighi,,Apple,2010s,80,85,10,90,B2C,10,30,75
+Eddy Cue,https://en.wikipedia.org/wiki/Eddy_Cue,,Apple,2010s,78,70,10,65,B2C,20,60,90
+Larry Page,https://en.wikipedia.org/wiki/Larry_Page,,Google,1990s,96,70,15,92,Infra,20,70,60
+Sergey Brin,https://en.wikipedia.org/wiki/Sergey_Brin,,Google,1990s,94,75,15,93,Infra,20,75,55
+Craig Silverstein,https://en.wikipedia.org/wiki/Craig_Silverstein,,Google,1990s,70,30,20,98,Infra,5,20,40
+Eric Schmidt,https://en.wikipedia.org/wiki/Eric_Schmidt,,Google,2000s,63,80,10,60,B2B,25,70,95
+Larry Page,https://en.wikipedia.org/wiki/Larry_Page,,Google,2000s,98,80,20,90,B2C,25,85,80
+Sergey Brin,https://en.wikipedia.org/wiki/Sergey_Brin,,Google,2000s,95,82,25,90,B2C,25,85,75
+Marissa Mayer,https://en.wikipedia.org/wiki/Marissa_Mayer,,Google,2000s,80,82,5,75,B2C,20,75,70
+Jeff Dean,https://en.wikipedia.org/wiki/Jeff_Dean,,Google,2000s,85,30,40,99,Infra,5,20,40
+Larry Page,https://en.wikipedia.org/wiki/Larry_Page,,Google,2010s,99,85,30,80,B2C,30,90,85
+Sundar Pichai,https://en.wikipedia.org/wiki/Sundar_Pichai,,Google,2010s,68,75,15,80,B2C,15,45,92
+Susan Wojcicki,https://en.wikipedia.org/wiki/Susan_Wojcicki,,Google,2010s,70,88,5,40,B2C,20,50,94
+Amit Singhal,https://en.wikipedia.org/wiki/Amit_Singhal,,Google,2010s,80,45,10,94,Infra,15,65,70
+Jeff Bezos,https://en.wikipedia.org/wiki/Jeff_Bezos,,Amazon,1990s,98,85,10,70,B2C,35,90,85
+MacKenzie Scott,https://en.wikipedia.org/wiki/MacKenzie_Scott,,Amazon,1990s,80,50,5,20,B2C,10,20,70
+Shel Kaphan,https://en.wikipedia.org/wiki/Shel_Kaphan,,Amazon,1990s,70,20,30,96,B2C,5,25,40
+Jeff Bezos,https://en.wikipedia.org/wiki/Jeff_Bezos,,Amazon,2000s,99,92,10,65,B2C,40,96,95
+Andy Jassy,https://en.wikipedia.org/wiki/Andy_Jassy,,Amazon,2000s,92,80,20,70,Infra,15,60,96
+Werner Vogels,https://en.wikipedia.org/wiki/Werner_Vogels,,Amazon,2000s,90,75,30,95,Infra,10,45,85
+Mark Zuckerberg,https://en.wikipedia.org/wiki/Mark_Zuckerberg,,Meta,2000s,97,80,10,92,B2C,40,90,85
+Dustin Moskovitz,https://en.wikipedia.org/wiki/Dustin_Moskovitz,,Meta,2000s,80,40,5,90,B2C,10,40,60
+Eduardo Saverin,https://en.wikipedia.org/wiki/Eduardo_Saverin,,Meta,2000s,70,60,5,30,B2C,30,70,65
+Chris Hughes,https://en.wikipedia.org/wiki/Chris_Hughes,,Meta,2000s,75,85,5,25,B2C,25,50,50
+Mark Zuckerberg,https://en.wikipedia.org/wiki/Mark_Zuckerberg,,Meta,2010s,99,88,15,80,B2C,45,96,95
+Sheryl Sandberg,https://en.wikipedia.org/wiki/Sheryl_Sandberg,,Meta,2010s,58,90,5,10,B2B,30,75,96
+Mike Schroepfer,https://en.wikipedia.org/wiki/Mike_Schroepfer,,Meta,2010s,68,60,50,92,Infra,10,40,80
+Chris Cox,https://en.wikipedia.org/wiki/Chris_Cox,,Meta,2010s,90,85,10,85,B2C,20,55,85
+Robert Noyce,https://en.wikipedia.org/wiki/Robert_Noyce,,Intel,1960s,93,85,95,5,Chips,20,65,80
+Gordon Moore,https://en.wikipedia.org/wiki/Gordon_Moore,,Intel,1960s,94,60,96,10,Chips,10,40,75
+Andy Grove,https://en.wikipedia.org/wiki/Andy_Grove,,Intel,1970s,92,85,85,30,Chips,25,88,95
+Gordon Moore,https://en.wikipedia.org/wiki/Gordon_Moore,,Intel,1970s,90,65,92,15,Chips,10,45,80
+Robert Noyce,https://en.wikipedia.org/wiki/Robert_Noyce,,Intel,1970s,90,88,88,5,Chips,25,70,82
+Federico Faggin,https://en.wikipedia.org/wiki/Federico_Faggin,,Intel,1970s,85,50,98,40,Chips,10,60,40
+Jerry Sanders,https://en.wikipedia.org/wiki/Jerry_Sanders,,AMD,1970s,85,92,40,5,Chips,40,96,75
+Edwin Turney,https://en.wikipedia.org/wiki/Edwin_Turney,,AMD,1970s,65,70,75,5,Chips,20,50,70
+Lisa Su,https://en.wikipedia.org/wiki/Lisa_Su,,AMD,2010s,85,88,95,60,Chips,15,40,96
+Rory Read,https://en.wikipedia.org/wiki/Rory_Read,,AMD,2010s,70,75,20,20,Chips,25,65,80
+Mark Papermaster,https://en.wikipedia.org/wiki/Mark_Papermaster,,AMD,2010s,82,50,92,55,Chips,5,30,70
+Jensen Huang,https://en.wikipedia.org/wiki/Jensen_Huang,,Nvidia,1990s,92,85,90,70,Chips,25,70,75
+Chris Malachowsky,https://en.wikipedia.org/wiki/Chris_Malachowsky,,Nvidia,1990s,80,50,92,60,Chips,10,45,65
+Curtis Priem,https://en.wikipedia.org/wiki/Curtis_Priem,,Nvidia,1990s,75,30,95,50,Chips,5,35,40
+Jensen Huang,https://en.wikipedia.org/wiki/Jensen_Huang,,Nvidia,2020s,99,98,80,60,Chips,30,80,98
+Colette Kress,https://en.wikipedia.org/wiki/Colette_Kress,,Nvidia,2020s,80,70,10,20,Chips,15,35,89
+Bryan Catanzaro,https://en.wikipedia.org/wiki/Bryan_Catanzaro,,Nvidia,2020s,88,65,70,94,Chips,10,40,60
+Larry Ellison,https://en.wikipedia.org/wiki/Larry_Ellison,,Oracle,1980s,94,95,15,30,B2B,50,96,90
+Bob Miner,https://en.wikipedia.org/wiki/Bob_Miner,,Oracle,1980s,70,20,30,92,B2B,5,40,50
+Ed Oates,https://en.wikipedia.org/wiki/Ed_Oates,,Oracle,1980s,70,25,25,88,B2B,5,30,45
+Larry Ellison,https://en.wikipedia.org/wiki/Larry_Ellison,,Oracle,1990s,91,97,15,25,B2B,55,98,96
+Ray Lane,https://en.wikipedia.org/wiki/Ray_Lane,,Oracle,1990s,82,85,10,40,B2B,30,75,92
+Jeff Henley,https://en.wikipedia.org/wiki/Jeff_Henley,,Oracle,1990s,75,60,5,15,B2B,20,50,89
+Dietmar Hopp,https://en.wikipedia.org/wiki/Dietmar_Hopp,,SAP,1970s,90,75,20,85,B2B,15,65,88
+Hasso Plattner,https://en.wikipedia.org/wiki/Hasso_Plattner,,SAP,1970s,92,80,25,90,B2B,15,75,85
+Klaus Tschira,https://en.wikipedia.org/wiki/Klaus_Tschira,,SAP,1970s,75,30,15,92,B2B,5,35,60
+Bill McDermott,https://en.wikipedia.org/wiki/Bill_McDermott,,SAP,2010s,72,94,5,35,B2B,40,90,94
+Jim Hagemann Snabe,https://en.wikipedia.org/wiki/Jim_Hagemann_Snabe,,SAP,2010s,68,75,10,70,B2B,15,50,88
+Shai Agassi,https://en.wikipedia.org/wiki/Shai_Agassi,,SAP,2010s,90,85,20,82,B2B,35,80,70
+Marc Benioff,https://en.wikipedia.org/wiki/Marc_Benioff,,Salesforce,2000s,93,96,10,65,B2B,45,92,92
+Parker Harris,https://en.wikipedia.org/wiki/Parker_Harris,,Salesforce,2000s,80,45,15,94,B2B,5,35,75
+Halsey Minor,https://en.wikipedia.org/wiki/Halsey_Minor,,Salesforce,2000s,88,85,5,50,B2B,40,85,80
+John Warnock,https://en.wikipedia.org/wiki/John_Warnock,,Adobe,1980s,94,70,40,95,B2B,10,50,85
+Charles Geschke,https://en.wikipedia.org/wiki/Charles_Geschke,,Adobe,1980s,90,65,35,92,B2B,10,45,82
+Bruce Chizen,https://en.wikipedia.org/wiki/Bruce_Chizen,,Adobe,2000s,66,82,5,55,B2B,20,60,92
+Shantanu Narayen,https://en.wikipedia.org/wiki/Shantanu_Narayen,,Adobe,2000s,93,85,10,75,B2B,15,55,96
+Thomas Watson Jr.,https://en.wikipedia.org/wiki/Thomas_Watson_Jr.,,IBM,1960s,92,85,70,40,Computers,20,88,95
+Gene Amdahl,https://en.wikipedia.org/wiki/Gene_Amdahl,,IBM,1960s,85,40,96,50,Computers,10,75,50
+Fred Brooks,https://en.wikipedia.org/wiki/Fred_Brooks,,IBM,1960s,88,40,60,92,Infra,5,50,45
+John Opel,https://en.wikipedia.org/wiki/John_Opel,,IBM,1980s,75,70,50,40,Computers,15,60,85
+Don Estridge,https://en.wikipedia.org/wiki/Don_Estridge,,IBM,1980s,90,85,85,50,Computers,15,55,90
+Leonard Bosack,https://en.wikipedia.org/wiki/Leonard_Bosack,,Cisco,1980s,88,30,94,80,Infra,10,55,40
+Sandy Lerner,https://en.wikipedia.org/wiki/Sandy_Lerner,,Cisco,1980s,88,70,70,70,Infra,25,80,65
+John Chambers,https://en.wikipedia.org/wiki/John_Chambers,,Cisco,1990s,76,92,30,50,Infra,35,85,96
+John Morgridge,https://en.wikipedia.org/wiki/John_Morgridge,,Cisco,1990s,80,75,20,45,Infra,20,60,94
+Bill Hewlett,https://en.wikipedia.org/wiki/Bill_Hewlett,,HP,1960s,92,65,95,20,Computers,5,30,90
+David Packard,https://en.wikipedia.org/wiki/David_Packard,,HP,1960s,92,75,90,20,Computers,5,35,95
+Carly Fiorina,https://en.wikipedia.org/wiki/Carly_Fiorina,,HP,2000s,70,90,5,10,Computers,45,92,60
+Mark Hurd,https://en.wikipedia.org/wiki/Mark_Hurd,,HP,2000s,72,80,5,15,Computers,30,85,92
+William Shockley,https://en.wikipedia.org/wiki/William_Shockley,,Fairchild,1950s,90,60,98,1,Chips,15,99,30
+Robert Noyce,https://en.wikipedia.org/wiki/Robert_Noyce,,Fairchild,1950s,94,82,94,5,Chips,20,60,75
+Gordon Moore,https://en.wikipedia.org/wiki/Gordon_Moore,,Fairchild,1950s,93,55,95,5,Chips,10,35,70
+Sherman Fairchild,https://en.wikipedia.org/wiki/Sherman_Fairchild,,Fairchild,1950s,85,70,60,5,Chips,15,50,88
+Morris Chang,https://en.wikipedia.org/wiki/Morris_Chang,,TSMC,2010s,94,75,80,20,Chips,15,60,99
+Mark Liu,https://en.wikipedia.org/wiki/Mark_Liu,,TSMC,2010s,68,65,94,35,Chips,10,45,93
+C.C. Wei,https://en.wikipedia.org/wiki/C.C._Wei,,TSMC,2010s,70,70,95,40,Chips,10,40,96
+Robin Saxby,https://en.wikipedia.org/wiki/Robin_Saxby,,ARM,1990s,94,85,70,60,Chips,20,60,94
+Sophie Wilson,https://en.wikipedia.org/wiki/Sophie_Wilson,,ARM,1990s,85,20,96,90,Chips,5,25,45
+Steve Furber,https://en.wikipedia.org/wiki/Steve_Furber,,ARM,1990s,82,15,95,82,Chips,5,25,40
+Gjalt Smit,https://en.wikipedia.org/wiki/Gjalt_Smit,,ASML,1980s,90,75,70,30,Chips,20,65,75
+Arthur del Prado,https://en.wikipedia.org/wiki/Arthur_del_Prado,,ASML,1980s,88,80,60,20,Chips,25,70,82
+Irwin M. Jacobs,https://en.wikipedia.org/wiki/Irwin_M._Jacobs,,Qualcomm,1980s,94,75,94,50,Chips,10,50,92
+Andrew Viterbi,https://en.wikipedia.org/wiki/Andrew_Viterbi,,Qualcomm,1980s,88,35,98,65,Chips,5,35,60
+Harvey White,https://en.wikipedia.org/wiki/Harvey_White,,Qualcomm,1980s,80,80,30,30,Chips,20,50,88
+Martin Eberhard,https://en.wikipedia.org/wiki/Martin_Eberhard,,Tesla,2000s,88,65,85,50,Deep Tech,20,70,45
+Marc Tarpenning,https://en.wikipedia.org/wiki/Marc_Tarpenning,,Tesla,2000s,82,40,82,65,Deep Tech,10,35,50
+Elon Musk,https://en.wikipedia.org/wiki/Elon_Musk,,Tesla,2000s,97,95,40,30,Deep Tech,55,95,70
+Ian Wright,https://en.wikipedia.org/wiki/Ian_Wright,,Tesla,2000s,75,20,90,45,Deep Tech,5,40,30
+Elon Musk,https://en.wikipedia.org/wiki/Elon_Musk,,Tesla,2010s,99,99,45,35,Deep Tech,65,98,85
+JB Straubel,https://en.wikipedia.org/wiki/JB_Straubel,,Tesla,2010s,92,45,96,75,Deep Tech,10,30,75
+Franz von Holzhausen,https://en.wikipedia.org/wiki/Franz_von_Holzhausen,,Tesla,2010s,88,85,92,10,Deep Tech,15,60,65
+Deepak Ahuja,https://en.wikipedia.org/wiki/Deepak_Ahuja,,Tesla,2010s,75,50,10,25,Deep Tech,15,35,94
+Elon Musk,https://en.wikipedia.org/wiki/Elon_Musk,,SpaceX,2000s,98,96,40,30,Deep Tech,55,96,65
+Tom Mueller,https://en.wikipedia.org/wiki/Tom_Mueller,,SpaceX,2000s,75,25,96,30,Deep Tech,5,35,30
+Gwynne Shotwell,https://en.wikipedia.org/wiki/Gwynne_Shotwell,,SpaceX,2000s,85,80,50,35,Deep Tech,15,40,92
+Elon Musk,https://en.wikipedia.org/wiki/Elon_Musk,,SpaceX,2010s,99,98,45,35,Deep Tech,60,97,80
+Gwynne Shotwell,https://en.wikipedia.org/wiki/Gwynne_Shotwell,,SpaceX,2010s,90,85,60,40,Deep Tech,15,45,88
+Tom Mueller,https://en.wikipedia.org/wiki/Tom_Mueller,,SpaceX,2010s,75,20,95,25,Deep Tech,5,30,35
+Palmer Luckey,https://en.wikipedia.org/wiki/Palmer_Luckey,,Anduril,2010s,92,92,88,60,Deep Tech,30,88,82
+Trae Stephens,https://en.wikipedia.org/wiki/Trae_Stephens,,Anduril,2010s,88,75,20,45,Deep Tech,20,55,90
+Brian Schimpf,https://en.wikipedia.org/wiki/Brian_Schimpf,,Anduril,2010s,85,50,55,92,Deep Tech,10,45,75
+Rod Canion,https://en.wikipedia.org/wiki/Rod_Canion,,Compaq,1980s,90,80,75,45,Computers,15,50,88
+Jim Harris,https://en.wikipedia.org/wiki/Jim_Harris,,Compaq,1980s,75,30,88,40,Computers,5,30,60
+Bill Murto,https://en.wikipedia.org/wiki/Bill_Murto,,Compaq,1980s,80,85,30,20,Computers,20,45,75
+Mike Lazaridis,https://en.wikipedia.org/wiki/Mike_Lazaridis,,BlackBerry,1990s,94,60,95,75,Computers,10,65,85
+Jim Balsillie,https://en.wikipedia.org/wiki/Jim_Balsillie,,BlackBerry,1990s,85,88,15,30,B2B,35,85,94
+Douglas Fregin,https://en.wikipedia.org/wiki/Douglas_Fregin,,BlackBerry,1990s,70,15,90,65,Computers,5,25,50
+Jack Dorsey,https://en.wikipedia.org/wiki/Jack_Dorsey,,Twitter,2000s,92,88,10,70,B2C,35,85,60
+Biz Stone,https://en.wikipedia.org/wiki/Biz_Stone,,Twitter,2000s,85,82,5,60,B2C,20,50,55
+Evan Williams,https://en.wikipedia.org/wiki/Evan_Williams,,Twitter,2000s,88,75,10,75,B2C,25,70,65
+Noah Glass,https://en.wikipedia.org/wiki/Noah_Glass,,Twitter,2000s,85,50,5,80,B2C,20,65,30
+Travis Kalanick,https://en.wikipedia.org/wiki/Travis_Kalanick,,Uber,2010s,92,91,15,50,B2C,78,98,85
+Garrett Camp,https://en.wikipedia.org/wiki/Garrett_Camp,,Uber,2010s,94,70,15,80,B2C,15,55,75
+Ryan Graves,https://en.wikipedia.org/wiki/Ryan_Graves,,Uber,2010s,80,80,10,40,B2C,25,50,80
+Emil Michael,https://en.wikipedia.org/wiki/Emil_Michael,,Uber,2010s,60,85,5,25,B2C,45,85,88
+Brian Chesky,https://en.wikipedia.org/wiki/Brian_Chesky,,Airbnb,2000s,92,91,5,30,B2C,35,85,90
+Joe Gebbia,https://en.wikipedia.org/wiki/Joe_Gebbia,,Airbnb,2000s,90,88,5,25,B2C,20,60,75
+Nathan Blecharczyk,https://en.wikipedia.org/wiki/Nathan_Blecharczyk,,Airbnb,2000s,85,45,15,92,B2C,5,35,80
+Pierre Omidyar,https://en.wikipedia.org/wiki/Pierre_Omidyar,,eBay,1990s,94,75,10,88,B2C,15,50,90
+Jeff Skoll,https://en.wikipedia.org/wiki/Jeff_Skoll,,eBay,1990s,85,70,5,50,B2C,15,45,92
+Meg Whitman,https://en.wikipedia.org/wiki/Meg_Whitman,,eBay,1990s,82,85,5,20,B2C,25,75,95
+Peter Thiel,https://en.wikipedia.org/wiki/Peter_Thiel,,PayPal,2000s,93,80,5,40,B2C,35,85,90
+Max Levchin,https://en.wikipedia.org/wiki/Max_Levchin,,PayPal,2000s,80,40,10,95,B2C,15,65,70
+Elon Musk,https://en.wikipedia.org/wiki/Elon_Musk,,PayPal,2000s,94,92,25,45,B2C,45,92,65
+Luke Nosek,https://en.wikipedia.org/wiki/Luke_Nosek,,PayPal,2000s,82,65,5,35,B2C,20,50,70
+Ken Howery,https://en.wikipedia.org/wiki/Ken_Howery,,PayPal,2000s,80,60,5,20,B2C,15,40,85
+David Sacks,https://en.wikipedia.org/wiki/David_Sacks,,PayPal,2000s,85,80,5,35,B2C,30,75,88
+Reed Hastings,https://en.wikipedia.org/wiki/Reed_Hastings,,Netflix,1990s,96,85,10,65,B2C,25,75,92
+Marc Randolph,https://en.wikipedia.org/wiki/Marc_Randolph,,Netflix,1990s,90,88,5,45,B2C,25,60,75
+Reed Hastings,https://en.wikipedia.org/wiki/Reed_Hastings,,Netflix,2010s,98,90,15,80,B2C,20,80,97
+Ted Sarandos,https://en.wikipedia.org/wiki/Ted_Sarandos,,Netflix,2010s,94,92,5,20,B2C,25,75,93
+Mitch Lowe,https://en.wikipedia.org/wiki/Mitch_Lowe,,Netflix,2010s,82,80,5,30,B2C,40,70,70
+Henrique Dubugras,https://en.wikipedia.org/wiki/Henrique_Dubugras,,Brex,2010s,90,92,5,60,B2B,35,75,85
+Pedro Franceschi,https://en.wikipedia.org/wiki/Pedro_Franceschi,,Brex,2010s,82,50,5,92,B2B,10,45,70
+Evan Spiegel,https://en.wikipedia.org/wiki/Evan_Spiegel,,Snapchat,2010s,94,92,5,45,B2C,35,92,75
+Bobby Murphy,https://en.wikipedia.org/wiki/Bobby_Murphy,,Snapchat,2010s,78,20,10,94,B2C,5,30,60
+Reggie Brown,https://en.wikipedia.org/wiki/Reggie_Brown,,Snapchat,2010s,82,40,5,40,B2C,20,60,30
+Steve Huffman,https://en.wikipedia.org/wiki/Steve_Huffman,,Reddit,2000s,88,65,5,88,B2C,20,65,55
+Alexis Ohanian,https://en.wikipedia.org/wiki/Alexis_Ohanian,,Reddit,2000s,88,90,5,35,B2C,25,60,60
+Aaron Swartz,https://en.wikipedia.org/wiki/Aaron_Swartz,,Reddit,2000s,92,50,10,94,B2C,5,30,10
+Jason Citron,https://en.wikipedia.org/wiki/Jason_Citron,,Discord,2010s,92,85,10,85,B2C,20,65,70
+Stanislav Vishnevskiy,https://en.wikipedia.org/wiki/Stanislav_Vishnevskiy,,Discord,2010s,80,30,10,94,B2C,5,35,50
+Daniel Ek,https://en.wikipedia.org/wiki/Daniel_Ek,,Spotify,2000s,90,90,10,75,B2C,30,70,88
+Martin Lorentzon,https://en.wikipedia.org/wiki/Martin_Lorentzon,,Spotify,2000s,85,75,5,40,B2C,20,50,85
+Patrick Collison,https://en.wikipedia.org/wiki/Patrick_Collison,,Stripe,2010s,92,88,5,90,Infra,15,50,92
+John Collison,https://en.wikipedia.org/wiki/John_Collison,,Stripe,2010s,93,90,5,75,Infra,15,45,94
+Jack Dorsey,https://en.wikipedia.org/wiki/Jack_Dorsey,,Square,2000s,94,90,35,65,B2C,30,85,80
+Jim McKelvey,https://en.wikipedia.org/wiki/Jim_McKelvey,,Square,2000s,85,75,75,45,B2C,15,45,70
+Tobias Lütke,https://en.wikipedia.org/wiki/Tobias_Lütke,,Shopify,2000s,94,70,10,96,B2B,10,60,90
+Scott Lake,https://en.wikipedia.org/wiki/Scott_Lake,,Shopify,2000s,80,75,5,50,B2B,15,50,75
+Zhang Yiming,https://en.wikipedia.org/wiki/Zhang_Yiming,,ByteDance,2010s,94,88,10,93,B2C,35,75,94
+Liang Rubo,https://en.wikipedia.org/wiki/Liang_Rubo,,ByteDance,2010s,82,50,10,92,B2C,10,40,85
+Pony Ma,https://en.wikipedia.org/wiki/Pony_Ma,,Tencent,1990s,91,80,10,85,B2C,25,65,92
+Zhang Zhidong,https://en.wikipedia.org/wiki/Zhang_Zhidong,,Tencent,1990s,80,25,10,94,B2C,5,30,60
+Jack Ma,https://en.wikipedia.org/wiki/Jack_Ma,,Alibaba,1990s,96,98,1,10,B2C,45,95,90
+Joseph Tsai,https://en.wikipedia.org/wiki/Joseph_Tsai,,Alibaba,1990s,88,75,5,20,B2C,20,50,96
+Dylan Field,https://en.wikipedia.org/wiki/Dylan_Field,,Figma,2010s,94,88,5,88,B2B,15,55,85
+Evan Wallace,https://en.wikipedia.org/wiki/Evan_Wallace,,Figma,2010s,80,30,5,96,B2B,5,35,50
+Melanie Perkins,https://en.wikipedia.org/wiki/Melanie_Perkins,,Canva,2010s,94,92,5,45,B2B,20,60,90
+Cliff Obrecht,https://en.wikipedia.org/wiki/Cliff_Obrecht,,Canva,2010s,85,85,5,30,B2B,20,50,92
+Cameron Adams,https://en.wikipedia.org/wiki/Cameron_Adams,,Canva,2010s,82,60,5,88,B2B,5,40,70
+Jerry Yang,https://en.wikipedia.org/wiki/Jerry_Yang,,Yahoo!,1990s,92,85,5,70,B2C,25,70,80
+David Filo,https://en.wikipedia.org/wiki/David_Filo,,Yahoo!,1990s,85,40,10,88,B2C,10,40,65
+Tim Koogle,https://en.wikipedia.org/wiki/Tim_Koogle,,Yahoo!,1990s,80,82,5,30,B2C,20,60,88
+Steve Case,https://en.wikipedia.org/wiki/Steve_Case,,AOL,1990s,94,95,5,35,B2C,40,88,85
+Marc Seriff,https://en.wikipedia.org/wiki/Marc_Seriff,,AOL,1990s,75,30,30,85,B2C,10,45,55
+William von Meister,https://en.wikipedia.org/wiki/William_von_Meister,,AOL,1990s,88,80,20,50,B2C,50,85,40
+Sam Altman,https://en.wikipedia.org/wiki/Sam_Altman,,OpenAI,2010s,94,90,10,40,Infra,50,80,85
+Ilya Sutskever,https://en.wikipedia.org/wiki/Ilya_Sutskever,,OpenAI,2010s,92,40,10,98,Infra,10,50,40
+Greg Brockman,https://en.wikipedia.org/wiki/Greg_Brockman,,OpenAI,2010s,85,70,15,95,Infra,15,60,65
+Wojciech Zaremba,https://en.wikipedia.org/wiki/Wojciech_Zaremba,,OpenAI,2010s,80,25,10,94,Infra,5,35,30
+Dario Amodei,https://en.wikipedia.org/wiki/Dario_Amodei,,Anthropic,2020s,90,65,10,93,Infra,15,55,60
+Daniela Amodei,https://en.wikipedia.org/wiki/Daniela_Amodei,,Anthropic,2020s,88,75,5,50,Infra,15,50,82
+Jared Kaplan,https://en.wikipedia.org/wiki/Jared_Kaplan,,Anthropic,2020s,85,40,10,92,Infra,5,45,50
+Peter Thiel,https://en.wikipedia.org/wiki/Peter_Thiel,,Palantir,2000s,94,80,5,35,B2B,35,85,85
+Alex Karp,https://en.wikipedia.org/wiki/Alex_Karp,,Palantir,2000s,90,88,5,50,B2B,35,88,80
+Joe Lonsdale,https://en.wikipedia.org/wiki/Joe_Lonsdale,,Palantir,2000s,88,85,5,65,B2B,30,80,75
+Stephen Cohen,https://en.wikipedia.org/wiki/Stephen_Cohen,,Palantir,2000s,82,45,10,90,B2B,10,45,65
+Demis Hassabis,https://en.wikipedia.org/wiki/Demis_Hassabis,,DeepMind,2010s,93,75,15,94,Infra,15,65,50
+Mustafa Suleyman,https://en.wikipedia.org/wiki/Mustafa_Suleyman,,DeepMind,2010s,92,90,5,40,B2C,35,80,70
+Shane Legg,https://en.wikipedia.org/wiki/Shane_Legg,,DeepMind,2010s,88,30,10,94,Infra,5,40,30
+Gabe Newell,https://en.wikipedia.org/wiki/Gabe_Newell,,Valve,1990s,91,85,20,85,B2C,20,75,92
+Mike Harrington,https://en.wikipedia.org/wiki/Mike_Harrington,,Valve,1990s,80,45,15,92,B2C,5,40,75
+Tim Sweeney,https://en.wikipedia.org/wiki/Tim_Sweeney,,Epic Games,1990s,92,65,40,98,Infra,15,70,88
+Mark Rein,https://en.wikipedia.org/wiki/Mark_Rein,,Epic Games,1990s,80,90,5,30,B2B,35,80,85
+Trip Hawkins,https://en.wikipedia.org/wiki/Trip_Hawkins,,Electronic Arts,1980s,94,92,10,60,B2C,35,90,82
+Bing Gordon,https://en.wikipedia.org/wiki/Bing_Gordon,,Electronic Arts,1980s,85,88,5,45,B2C,25,65,85
+Brandon Beck,https://en.wikipedia.org/wiki/Brandon_Beck,,Riot Games,2000s,92,90,5,55,B2C,20,65,88
+Marc Merrill,https://en.wikipedia.org/wiki/Marc_Merrill,,Riot Games,2000s,90,88,5,50,B2C,20,70,85
+Hiroshi Yamauchi,https://en.wikipedia.org/wiki/Hiroshi_Yamauchi,,Nintendo,1980s,90,85,60,10,Computers,35,98,96
+Shigeru Miyamoto,https://en.wikipedia.org/wiki/Shigeru_Miyamoto,,Nintendo,1980s,93,75,30,92,B2C,5,50,80
+Gunpei Yokoi,https://en.wikipedia.org/wiki/Gunpei_Yokoi,,Nintendo,1980s,92,40,95,45,Computers,5,35,75
+David Crane,https://en.wikipedia.org/wiki/David_Crane_(programmer),,Activision,1970s,88,60,65,94,B2C,10,60,65
+Alan Miller,https://en.wikipedia.org/wiki/Alan_Miller,,Activision,1970s,82,50,50,90,B2C,10,50,60
+Bob Whitehead,https://en.wikipedia.org/wiki/Bob_Whitehead,,Activision,1970s,80,45,45,88,B2C,10,45,55
+Larry Kaplan,https://en.wikipedia.org/wiki/Larry_Kaplan,,Activision,1970s,82,40,55,91,B2C,10,55,50
+David Baszucki,https://en.wikipedia.org/wiki/David_Baszucki,,Roblox,2000s,94,80,15,85,B2C,25,65,88
+Erik Cassel,https://en.wikipedia.org/wiki/Erik_Cassel,,Roblox,2000s,85,30,15,94,B2C,5,30,60
+David Helgason,https://en.wikipedia.org/wiki/David_Helgason,,Unity,2000s,90,85,10,70,Infra,20,60,80
+Joachim Ante,https://en.wikipedia.org/wiki/Joachim_Ante,,Unity,2000s,80,25,15,95,Infra,5,30,50
+Nicholas Francis,https://en.wikipedia.org/wiki/Nicholas_Francis,,Unity,2000s,82,40,10,88,Infra,10,45,55
+Nolan Bushnell,https://en.wikipedia.org/wiki/Nolan_Bushnell,,Atari,1970s,92,95,70,40,Computers,50,90,75
+Ted Dabney,https://en.wikipedia.org/wiki/Ted_Dabney,,Atari,1970s,70,20,88,20,Computers,5,30,50
+Al Alcorn,https://en.wikipedia.org/wiki/Al_Alcorn,,Atari,1970s,75,45,94,50,Computers,10,35,60
+Elizabeth Holmes,https://en.wikipedia.org/wiki/Elizabeth_Holmes,,Theranos,2010s,88,95,2,2,Deep Tech,99,96,40
+Sunny Balwani,https://en.wikipedia.org/wiki/Sunny_Balwani,,Theranos,2010s,60,70,5,5,Deep Tech,98,95,50
+Channing Robertson,https://en.wikipedia.org/wiki/Channing_Robertson,,Theranos,2010s,70,75,45,10,Deep Tech,60,70,45
+Adam Neumann,https://en.wikipedia.org/wiki/Adam_Neumann,,WeWork,2010s,94,95,5,5,B2C,92,98,65
+Miguel McKelvey,https://en.wikipedia.org/wiki/Miguel_McKelvey,,WeWork,2010s,80,75,10,10,B2C,40,50,60
+Rebekah Neumann,https://en.wikipedia.org/wiki/Rebekah_Neumann,,WeWork,2010s,75,80,5,5,B2C,70,92,35
+Sam Bankman-Fried,https://en.wikipedia.org/wiki/Sam_Bankman-Fried,,FTX,2020s,90,89,5,45,B2C,99,94,70
+Gary Wang,https://en.wikipedia.org/wiki/Gary_Wang,,FTX,2020s,75,15,10,92,B2C,75,35,45
+Caroline Ellison,https://en.wikipedia.org/wiki/Caroline_Ellison,,FTX,2020s,50,40,5,30,B2C,95,60,30
+Nishad Singh,https://en.wikipedia.org/wiki/Nishad_Singh,,FTX,2020s,70,30,5,90,B2C,80,45,40
+Kenneth Lay,https://en.wikipedia.org/wiki/Kenneth_Lay,,Enron,1990s,88,90,5,5,B2B,96,94,80
+Jeffrey Skilling,https://en.wikipedia.org/wiki/Jeffrey_Skilling,,Enron,1990s,85,92,5,5,B2B,98,95,85
+Andrew Fastow,https://en.wikipedia.org/wiki/Andrew_Fastow,,Enron,1990s,70,75,5,5,B2B,99,88,90
+Jeffrey Katzenberg,https://en.wikipedia.org/wiki/Jeffrey_Katzenberg,,Quibi,2020s,65,88,5,15,B2C,50,94,40
+Meg Whitman,https://en.wikipedia.org/wiki/Meg_Whitman,,Quibi,2020s,60,80,5,15,B2C,35,85,65
+Doug Evans,https://en.wikipedia.org/wiki/Doug_Evans,,Juicero,2010s,60,85,35,5,Computers,75,85,20
+Jeff Dunn,https://en.wikipedia.org/wiki/Jeff_Dunn,,Juicero,2010s,65,70,10,5,Computers,40,65,55
+Marc Andreessen,https://en.wikipedia.org/wiki/Marc_Andreessen,,Netscape,1990s,94,90,10,94,Infra,20,85,70
+Jim Clark,https://en.wikipedia.org/wiki/Jim_Clark,,Netscape,1990s,91,85,60,65,Infra,25,88,85
+Jim Barksdale,https://en.wikipedia.org/wiki/Jim_Barksdale,,Netscape,1990s,64,85,5,35,Infra,15,60,92
+Drew Houston,https://en.wikipedia.org/wiki/Drew_Houston,,Dropbox,2000s,90,85,5,90,B2C,15,60,88
+Arash Ferdowsi,https://en.wikipedia.org/wiki/Arash_Ferdowsi,,Dropbox,2000s,80,35,5,94,B2C,5,35,70
+Stewart Butterfield,https://en.wikipedia.org/wiki/Stewart_Butterfield,,Slack,2010s,94,92,5,80,B2B,20,70,88
+Cal Henderson,https://en.wikipedia.org/wiki/Cal_Henderson,,Slack,2010s,82,45,5,94,B2B,5,40,75
+Eric Costello,https://en.wikipedia.org/wiki/Eric_Costello,,Slack,2010s,78,30,5,90,B2B,5,35,60
+Eric Yuan,https://en.wikipedia.org/wiki/Eric_Yuan,,Zoom,2010s,93,85,5,95,B2B,15,50,94
+Dan Scheinman,https://en.wikipedia.org/wiki/Dan_Scheinman,,Zoom,2010s,82,70,5,30,B2B,15,45,85
+Ben Silbermann,https://en.wikipedia.org/wiki/Ben_Silbermann,,Pinterest,2010s,92,85,5,70,B2C,15,50,85
+Evan Sharp,https://en.wikipedia.org/wiki/Evan_Sharp,,Pinterest,2010s,85,75,5,75,B2C,10,45,70
+Paul Sciarra,https://en.wikipedia.org/wiki/Paul_Sciarra,,Pinterest,2010s,85,70,5,55,B2C,15,50,75
+Logan Green,https://en.wikipedia.org/wiki/Logan_Green,,Lyft,2010s,92,82,10,50,B2C,25,60,75
+John Zimmer,https://en.wikipedia.org/wiki/John_Zimmer,,Lyft,2010s,90,88,5,40,B2C,20,55,78
+Apoorva Mehta,https://en.wikipedia.org/wiki/Apoorva_Mehta,,Instacart,2010s,92,88,10,65,B2C,35,80,82
+Max Mullen,https://en.wikipedia.org/wiki/Max_Mullen,,Instacart,2010s,82,75,5,50,B2C,15,45,70
+Brandon Leonardo,https://en.wikipedia.org/wiki/Brandon_Leonardo,,Instacart,2010s,80,40,5,88,B2C,5,35,65
+Tony Xu,https://en.wikipedia.org/wiki/Tony_Xu,,DoorDash,2010s,93,88,10,60,B2C,30,75,90
+Stanley Tang,https://en.wikipedia.org/wiki/Stanley_Tang,,DoorDash,2010s,82,65,5,85,B2C,15,50,70
+Andy Fang,https://en.wikipedia.org/wiki/Andy_Fang,,DoorDash,2010s,82,60,5,88,B2C,10,45,72
+Brian Armstrong,https://en.wikipedia.org/wiki/Brian_Armstrong,,Coinbase,2010s,94,85,5,75,B2C,30,70,92
+Fred Ehrsam,https://en.wikipedia.org/wiki/Fred_Ehrsam,,Coinbase,2010s,90,80,5,65,B2C,25,65,85
+Vlad Tenev,https://en.wikipedia.org/wiki/Vlad_Tenev,,Robinhood,2010s,92,92,5,65,B2C,45,80,85
+Baiju Bhatt,https://en.wikipedia.org/wiki/Baiju_Bhatt,,Robinhood,2010s,88,85,5,70,B2C,35,75,80
+Ali Ghodsi,https://en.wikipedia.org/wiki/Ali_Ghodsi,,Databricks,2010s,94,85,10,88,Infra,15,55,92
+Matei Zaharia,https://en.wikipedia.org/wiki/Matei_Zaharia,,Databricks,2010s,88,40,15,98,Infra,5,35,60
+Ion Stoica,https://en.wikipedia.org/wiki/Ion_Stoica,,Databricks,2010s,90,50,20,94,Infra,5,45,75
+Benoit Dageville,https://en.wikipedia.org/wiki/Benoit_Dageville,,Snowflake,2010s,92,50,10,96,Infra,10,45,80
+Thierry Cruanes,https://en.wikipedia.org/wiki/Thierry_Cruanes,,Snowflake,2010s,85,30,10,95,Infra,5,35,65
+Bob Muglia,https://en.wikipedia.org/wiki/Bob_Muglia,,Snowflake,2010s,66,82,5,55,Infra,20,70,90
+Henry Samueli,https://en.wikipedia.org/wiki/Henry_Samueli,,Broadcom,1990s,92,55,96,45,Chips,10,55,88
+Henry Nicholas,https://en.wikipedia.org/wiki/Henry_Nicholas,,Broadcom,1990s,92,90,75,40,Chips,35,94,85
+Chris DeWolfe,https://en.wikipedia.org/wiki/Chris_DeWolfe,,Myspace,2000s,88,88,5,45,B2C,25,75,75
+Tom Anderson,https://en.wikipedia.org/wiki/Tom_Anderson,,Myspace,2000s,85,92,5,50,B2C,15,40,55
+Andrew Mason,https://en.wikipedia.org/wiki/Andrew_Mason,,Groupon,2000s,88,90,5,45,B2C,35,75,75
+Eric Lefkofsky,https://en.wikipedia.org/wiki/Eric_Lefkofsky,,Groupon,2000s,85,85,5,20,B2C,45,85,90
+Brad Keywell,https://en.wikipedia.org/wiki/Brad_Keywell,,Groupon,2000s,82,80,5,20,B2C,30,75,85
+Mark Pincus,https://en.wikipedia.org/wiki/Mark_Pincus,,Zynga,2000s,90,88,5,50,B2C,40,88,92
+Justin Waldron,https://en.wikipedia.org/wiki/Justin_Waldron,,Zynga,2000s,82,60,5,85,B2C,15,50,65
+Dean Kamen,https://en.wikipedia.org/wiki/Dean_Kamen,,Segway,2000s,88,92,94,40,Deep Tech,25,85,50
+Jimi Heselden,https://en.wikipedia.org/wiki/Jimi_Heselden,,Segway,2000s,75,60,50,10,Deep Tech,15,45,85
+Marc Porat,https://en.wikipedia.org/wiki/Marc_Porat,,General Magic,1990s,89,85,25,45,Computers,30,75,40
+Andy Hertzfeld,https://en.wikipedia.org/wiki/Andy_Hertzfeld,,General Magic,1990s,88,40,20,94,Computers,5,45,30
+Bill Atkinson,https://en.wikipedia.org/wiki/Bill_Atkinson,,General Magic,1990s,88,35,15,94,Computers,5,40,30
+Jack Tramiel,https://en.wikipedia.org/wiki/Jack_Tramiel,,Commodore,1970s,92,85,40,20,Computers,40,96,92
+Chuck Peddle,https://en.wikipedia.org/wiki/Chuck_Peddle,,Commodore,1970s,88,45,95,60,Chips,10,65,55
+Clive Sinclair,https://en.wikipedia.org/wiki/Clive_Sinclair,,Sinclair,1980s,94,85,92,40,Computers,30,88,70
+Chris Curry,https://en.wikipedia.org/wiki/Chris_Curry,,Sinclair,1980s,82,75,70,35,Computers,20,60,75
+Bob Taylor,https://en.wikipedia.org/wiki/Bob_Taylor,,Xerox,1970s,92,75,50,70,Infra,15,70,40
+Alan Kay,https://en.wikipedia.org/wiki/Alan_Kay,,Xerox,1970s,95,60,40,95,Computers,5,65,20
+Butler Lampson,https://en.wikipedia.org/wiki/Butler_Lampson,,Xerox,1970s,88,20,65,96,Infra,5,40,20
+Dennis Ritchie,https://en.wikipedia.org/wiki/Dennis_Ritchie,,Bell Labs,1970s,88,10,40,99,Infra,1,15,10
+Ken Thompson,https://en.wikipedia.org/wiki/Ken_Thompson,,Bell Labs,1970s,92,10,50,99,Infra,1,15,10
+Steve Jobs,https://en.wikipedia.org/wiki/Steve_Jobs,,NeXT,1980s,96,98,20,35,Computers,45,96,65
+Avie Tevanian,https://en.wikipedia.org/wiki/Avie_Tevanian,,NeXT,1980s,85,40,10,96,Infra,5,45,60
+Bud Tribble,https://en.wikipedia.org/wiki/Bud_Tribble,,NeXT,1980s,85,45,15,92,Infra,5,40,55
+Edwin Catmull,https://en.wikipedia.org/wiki/Edwin_Catmull,,Pixar,1980s,94,55,30,96,B2C,5,35,82
+Alvy Ray Smith,https://en.wikipedia.org/wiki/Alvy_Ray_Smith,,Pixar,1980s,90,65,35,92,B2C,10,50,70
+Steve Jobs,https://en.wikipedia.org/wiki/Steve_Jobs,,Pixar,1980s,95,96,10,20,B2C,35,95,85
+Jeff Hawkins,https://en.wikipedia.org/wiki/Jeff_Hawkins,,Palm,1990s,91,70,92,75,Computers,10,55,75
+Donna Dubinsky,https://en.wikipedia.org/wiki/Donna_Dubinsky,,Palm,1990s,85,88,5,25,Computers,20,60,94
+Ed Colligan,https://en.wikipedia.org/wiki/Ed_Colligan,,Palm,1990s,80,82,5,30,Computers,20,55,88
+Scott McNealy,https://en.wikipedia.org/wiki/Scott_McNealy,,Sun Microsystems,1980s,88,85,40,30,Computers,30,85,80
+Andy Bechtolsheim,https://en.wikipedia.org/wiki/Andy_Bechtolsheim,,Sun Microsystems,1980s,88,25,96,60,Computers,5,40,85
+Vinod Khosla,https://en.wikipedia.org/wiki/Vinod_Khosla,,Sun Microsystems,1980s,92,70,25,20,Computers,25,82,92
+Scott McNealy,https://en.wikipedia.org/wiki/Scott_McNealy,,Sun Microsystems,1990s,90,92,40,30,Computers,35,92,85
+James Gosling,https://en.wikipedia.org/wiki/James_Gosling,,Sun Microsystems,1990s,85,35,20,96,Infra,5,40,45
+Ed Zander,https://en.wikipedia.org/wiki/Ed_Zander,,Sun Microsystems,1990s,72,82,25,30,Computers,25,72,85
